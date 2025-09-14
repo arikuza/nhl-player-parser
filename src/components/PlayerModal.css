@@ -286,6 +286,7 @@
   .modal-overlay {
     padding: 0;
     align-items: flex-start;
+    overflow-x: hidden;
   }
 
   .modal-content {
@@ -293,16 +294,20 @@
     min-height: 100vh;
     max-height: none;
     border-radius: 0;
-    width: 100vw;
-    max-width: 100vw;
+    width: 100%;
+    max-width: 100%;
     margin: 0;
-    overflow: visible;
+    overflow-x: hidden;
+    overflow-y: auto;
+    box-sizing: border-box;
   }
 
   .modal-body {
     flex-direction: column;
     overflow: visible;
     height: auto;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .modal-left-side {
@@ -312,6 +317,7 @@
     padding: 3rem 1rem 1rem;
     overflow: visible;
     background: linear-gradient(to bottom, #1a1a1a, #121212);
+    box-sizing: border-box;
   }
 
   .player-header {
@@ -342,30 +348,45 @@
     padding: 1rem;
     border-radius: 12px;
     gap: 0.8rem;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .detail-item {
     padding-bottom: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
   }
 
   .detail-label {
     font-size: 0.7rem;
+    flex-shrink: 0;
   }
 
   .detail-value {
     font-size: 0.9rem;
     font-weight: 700;
+    text-align: right;
+    word-break: break-word;
+    max-width: 60%;
   }
 
   .modal-right-side {
     padding: 1rem;
     overflow: visible;
     background: transparent;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .stats-sections {
     grid-template-columns: 1fr !important;
     gap: 1rem;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .stats-section {
@@ -373,6 +394,8 @@
     padding: 1rem;
     border-radius: 12px;
     border: 1px solid rgba(255, 255, 255, 0.08);
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .stats-section h3 {
@@ -420,5 +443,67 @@
     font-size: 1.5rem;
     z-index: 20;
     border: 2px solid rgba(255, 255, 255, 0.2);
+  }
+}
+
+/* Extra small devices (phones, less than 380px) */
+@media (max-width: 380px) {
+  .modal-left-side {
+    padding: 3rem 0.5rem 0.5rem;
+  }
+
+  .modal-right-side {
+    padding: 0.5rem;
+  }
+
+  .player-header h2 {
+    font-size: 1.2rem;
+  }
+
+  .player-badges {
+    gap: 0.3rem;
+  }
+
+  .badge {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.65rem;
+  }
+
+  .player-details {
+    padding: 0.8rem;
+  }
+
+  .detail-item {
+    padding-bottom: 0.4rem;
+  }
+
+  .detail-label {
+    font-size: 0.65rem;
+  }
+
+  .detail-value {
+    font-size: 0.8rem;
+    max-width: 55%;
+  }
+
+  .stats-section {
+    padding: 0.8rem;
+  }
+
+  .stats-section h3 {
+    font-size: 0.75rem;
+  }
+
+  .stat-label {
+    font-size: 0.6rem;
+  }
+
+  .stat-bar-bg {
+    height: 24px;
+  }
+
+  .stat-value {
+    font-size: 0.85rem;
+    min-width: 30px;
   }
 }
