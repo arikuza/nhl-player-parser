@@ -82,7 +82,7 @@ function App() {
 
     try {
       // Load summary first to check if data exists
-      const summaryResponse = await fetch('/data/summary.json');
+      const summaryResponse = await fetch(`${process.env.PUBLIC_URL}/data/summary.json`);
       if (!summaryResponse.ok) {
         throw new Error('No parsed data found. Please run the parser first: node parser.js');
       }
@@ -90,10 +90,10 @@ function App() {
 
       // Load all player data
       const [allPlayersRes, forwardsRes, defensemenRes, goaliesRes] = await Promise.all([
-        fetch('/data/all_players.json'),
-        fetch('/data/forwards.json'),
-        fetch('/data/defensemen.json'),
-        fetch('/data/goalies.json')
+        fetch(`${process.env.PUBLIC_URL}/data/all_players.json`),
+        fetch(`${process.env.PUBLIC_URL}/data/forwards.json`),
+        fetch(`${process.env.PUBLIC_URL}/data/defensemen.json`),
+        fetch(`${process.env.PUBLIC_URL}/data/goalies.json`)
       ]);
 
       const [players, forwards, defensemen, goalies] = await Promise.all([

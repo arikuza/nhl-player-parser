@@ -19,7 +19,7 @@ export const StatsProvider: React.FC<{ children: React.ReactNode }> = ({ childre
 
   useEffect(() => {
     // Load all players data and create calculator
-    fetch('/data/all_players.json')
+    fetch(`${process.env.PUBLIC_URL}/data/all_players.json`)
       .then(res => res.json())
       .then(players => {
         const calc = new StatPercentileCalculator(players);
