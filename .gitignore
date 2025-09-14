@@ -26,14 +26,12 @@ yarn-error.log*
 .vscode/
 .idea/
 
-# Data files (too large for git)
-/public/data/all_players.json
-/public/data/forwards.json
-/public/data/defensemen.json
-/public/data/goalies.json
-
-# Keep summary file
-!/public/data/summary.json
+# Keep all data files for deployment
+# /public/data/all_players.json
+# /public/data/forwards.json
+# /public/data/defensemen.json
+# /public/data/goalies.json
+# !/public/data/summary.json
 
 # Downloaded images (too many for git)
 /public/images/
