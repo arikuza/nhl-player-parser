@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nhl-player-parser/static/css/main.06115695.css",
-    "main.js": "/nhl-player-parser/static/js/main.14724174.js",
+    "main.js": "/nhl-player-parser/static/js/main.285470e1.js",
     "static/js/453.f3717bd7.chunk.js": "/nhl-player-parser/static/js/453.f3717bd7.chunk.js",
     "index.html": "/nhl-player-parser/index.html",
     "main.06115695.css.map": "/nhl-player-parser/static/css/main.06115695.css.map",
-    "main.14724174.js.map": "/nhl-player-parser/static/js/main.14724174.js.map",
+    "main.285470e1.js.map": "/nhl-player-parser/static/js/main.285470e1.js.map",
     "453.f3717bd7.chunk.js.map": "/nhl-player-parser/static/js/453.f3717bd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06115695.css",
-    "static/js/main.14724174.js"
+    "static/js/main.285470e1.js"
   ]
 }
