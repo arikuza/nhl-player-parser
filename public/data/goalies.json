@@ -2,7 +2,7 @@
   {
     "id": "G1000",
     "full_name": "LUKAS DOSTAL",
-    "cardImage": "/images/cards/100007092025091233.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/100007092025091233.jpg",
     "position": "G",
     "team": "ANA",
     "nationality": "Czechia",
@@ -33,7 +33,7 @@
   {
     "id": "G1001",
     "full_name": "PETR MRAZEK",
-    "cardImage": "/images/cards/100107092025091253.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/100107092025091253.jpg",
     "position": "G",
     "team": "ANA",
     "nationality": "Czechia",
@@ -64,7 +64,7 @@
   {
     "id": "G1002",
     "full_name": "VILLE HUSSO",
-    "cardImage": "/images/cards/100207092025091306.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/100207092025091306.jpg",
     "position": "G",
     "team": "ANA",
     "nationality": "Finland",
@@ -95,7 +95,7 @@
   {
     "id": "G1003",
     "full_name": "JEREMY SWAYMAN",
-    "cardImage": "/images/cards/100307092025092404.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/100307092025092404.jpg",
     "position": "G",
     "team": "BOS",
     "nationality": "USA",
@@ -126,7 +126,7 @@
   {
     "id": "G1004",
     "full_name": "JOONAS KORPISALO",
-    "cardImage": "/images/cards/100407092025092428.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/100407092025092428.jpg",
     "position": "G",
     "team": "BOS",
     "nationality": "Finland",
@@ -157,7 +157,7 @@
   {
     "id": "G1005",
     "full_name": "LOGAN THOMPSON",
-    "cardImage": "/images/cards/100507092025095807.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/100507092025095807.jpg",
     "position": "G",
     "team": "WSH",
     "nationality": "Canada",
@@ -188,7 +188,7 @@
   {
     "id": "G1006",
     "full_name": "KAREL VEJMELKA",
-    "cardImage": "/images/cards/100607092025101422.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/100607092025101422.jpg",
     "position": "G",
     "team": "UTA",
     "nationality": "Czechia",
@@ -219,7 +219,7 @@
   {
     "id": "G1007",
     "full_name": "HENRIK LUNDQVIST",
-    "cardImage": "/images/cards/100707092025101717.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/100707092025101717.jpg",
     "position": "G",
     "team": "NYR",
     "nationality": "Sweden",
@@ -250,7 +250,7 @@
   {
     "id": "G1008",
     "full_name": "DUSTIN WOLF",
-    "cardImage": "/images/cards/100807092025103051.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/100807092025103051.jpg",
     "position": "G",
     "team": "CGY",
     "nationality": "USA",
@@ -281,7 +281,7 @@
   {
     "id": "G1009",
     "full_name": "FREDERIK ANDERSEN",
-    "cardImage": "/images/cards/100907092025105854.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/100907092025105854.jpg",
     "position": "G",
     "team": "CAR",
     "nationality": "Denmark",
@@ -312,7 +312,7 @@
   {
     "id": "G1010",
     "full_name": "PYOTR KOCHETKOV",
-    "cardImage": "/images/cards/101007092025105915.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/101007092025105915.jpg",
     "position": "G",
     "team": "CAR",
     "nationality": "Russia",
@@ -343,7 +343,7 @@
   {
     "id": "G1011",
     "full_name": "SPENCER KNIGHT",
-    "cardImage": "/images/cards/101107092025110244.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/101107092025110244.jpg",
     "position": "G",
     "team": "CHI",
     "nationality": "USA",
@@ -374,7 +374,7 @@
   {
     "id": "G1012",
     "full_name": "ARVID SÖDERBLOM",
-    "cardImage": "/images/cards/101207092025110323.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/101207092025110323.jpg",
     "position": "G",
     "team": "CHI",
     "nationality": "Sweden",
@@ -405,7 +405,7 @@
   {
     "id": "G1013",
     "full_name": "LAURENT BROSSOIT",
-    "cardImage": "/images/cards/101307092025110333.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/101307092025110333.jpg",
     "position": "G",
     "team": "CHI",
     "nationality": "Canada",
@@ -436,7 +436,7 @@
   {
     "id": "G1014",
     "full_name": "MACKENZIE BLACKWOOD",
-    "cardImage": "/images/cards/101407092025110602.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/101407092025110602.jpg",
     "position": "G",
     "team": "COL",
     "nationality": "Canada",
@@ -467,7 +467,7 @@
   {
     "id": "G1015",
     "full_name": "SCOTT WEDGEWOOD",
-    "cardImage": "/images/cards/101507092025110637.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/101507092025110637.jpg",
     "position": "G",
     "team": "COL",
     "nationality": "Canada",
@@ -498,7 +498,7 @@
   {
     "id": "G1016",
     "full_name": "ELVIS MERZLIKINS",
-    "cardImage": "/images/cards/101607092025110853.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/101607092025110853.jpg",
     "position": "G",
     "team": "CBJ",
     "nationality": "Latvia",
@@ -529,7 +529,7 @@
   {
     "id": "G1017",
     "full_name": "JAKE OETTINGER",
-    "cardImage": "/images/cards/101707092025111635.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/101707092025111635.jpg",
     "position": "G",
     "team": "DAL",
     "nationality": "USA",
@@ -560,7 +560,7 @@
   {
     "id": "G1018",
     "full_name": "CASEY DESMITH",
-    "cardImage": "/images/cards/101807092025111719.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/101807092025111719.jpg",
     "position": "G",
     "team": "DAL",
     "nationality": "USA",
@@ -591,7 +591,7 @@
   {
     "id": "G1019",
     "full_name": "CAM TALBOT",
-    "cardImage": "/images/cards/101907092025112012.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/101907092025112012.jpg",
     "position": "G",
     "team": "DET",
     "nationality": "Canada",
@@ -622,7 +622,7 @@
   {
     "id": "G1020",
     "full_name": "JOHN GIBSON",
-    "cardImage": "/images/cards/102007092025112016.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/102007092025112016.jpg",
     "position": "G",
     "team": "DET",
     "nationality": "USA",
@@ -653,7 +653,7 @@
   {
     "id": "G1021",
     "full_name": "STUART SKINNER",
-    "cardImage": "/images/cards/102107092025112452.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/102107092025112452.jpg",
     "position": "G",
     "team": "EDM",
     "nationality": "Canada",
@@ -684,7 +684,7 @@
   {
     "id": "G1022",
     "full_name": "CALVIN PICKARD",
-    "cardImage": "/images/cards/102207092025112514.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/102207092025112514.jpg",
     "position": "G",
     "team": "EDM",
     "nationality": "Canada",
@@ -715,7 +715,7 @@
   {
     "id": "G1023",
     "full_name": "SERGEI BOBROVSKY",
-    "cardImage": "/images/cards/102307092025112758.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/102307092025112758.jpg",
     "position": "G",
     "team": "FLA",
     "nationality": "Russia",
@@ -746,7 +746,7 @@
   {
     "id": "G1024",
     "full_name": "DANIIL TARASOV",
-    "cardImage": "/images/cards/102407092025112829.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/102407092025112829.jpg",
     "position": "G",
     "team": "FLA",
     "nationality": "Russia",
@@ -777,7 +777,7 @@
   {
     "id": "G1025",
     "full_name": "DARCY KUEMPER",
-    "cardImage": "/images/cards/102507092025113019.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/102507092025113019.jpg",
     "position": "G",
     "team": "LAK",
     "nationality": "Canada",
@@ -808,7 +808,7 @@
   {
     "id": "G1026",
     "full_name": "ANTON FORSBERG",
-    "cardImage": "/images/cards/102607092025113129.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/102607092025113129.jpg",
     "position": "G",
     "team": "LAK",
     "nationality": "Sweden",
@@ -839,7 +839,7 @@
   {
     "id": "G1027",
     "full_name": "FILIP GUSTAVSSON",
-    "cardImage": "/images/cards/102707092025113307.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/102707092025113307.jpg",
     "position": "G",
     "team": "MIN",
     "nationality": "Sweden",
@@ -870,7 +870,7 @@
   {
     "id": "G1028",
     "full_name": "JESPER WALLSTEDT",
-    "cardImage": "/images/cards/102807092025113436.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/102807092025113436.jpg",
     "position": "G",
     "team": "MIN",
     "nationality": "Sweden",
@@ -901,7 +901,7 @@
   {
     "id": "G1029",
     "full_name": "SAMUEL MONTEMBEAULT",
-    "cardImage": "/images/cards/102907092025113559.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/102907092025113559.jpg",
     "position": "G",
     "team": "MIN",
     "nationality": "Canada",
@@ -932,7 +932,7 @@
   {
     "id": "G1030",
     "full_name": "SAMUEL MONTEMBEAULT",
-    "cardImage": "/images/cards/103007092025114129.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/103007092025114129.jpg",
     "position": "G",
     "team": "MTL",
     "nationality": "Canada",
@@ -963,7 +963,7 @@
   {
     "id": "G1031",
     "full_name": "JAKUB DOBES",
-    "cardImage": "/images/cards/103107092025114158.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/103107092025114158.jpg",
     "position": "G",
     "team": "MTL",
     "nationality": "Czechia",
@@ -994,7 +994,7 @@
   {
     "id": "G1032",
     "full_name": "JUUSE SAROS",
-    "cardImage": "/images/cards/103207092025114245.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/103207092025114245.jpg",
     "position": "G",
     "team": "NSH",
     "nationality": "Finland",
@@ -1025,7 +1025,7 @@
   {
     "id": "G1033",
     "full_name": "JUSTUS ANNUNEN",
-    "cardImage": "/images/cards/103307092025114324.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/103307092025114324.jpg",
     "position": "G",
     "team": "NSH",
     "nationality": "Finland",
@@ -1056,7 +1056,7 @@
   {
     "id": "G1034",
     "full_name": "JACOB MARKSTROM",
-    "cardImage": "/images/cards/103407092025114554.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/103407092025114554.jpg",
     "position": "G",
     "team": "NJD",
     "nationality": "Sweden",
@@ -1087,7 +1087,7 @@
   {
     "id": "G1035",
     "full_name": "JAKE ALLEN",
-    "cardImage": "/images/cards/103507092025114605.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/103507092025114605.jpg",
     "position": "G",
     "team": "NJD",
     "nationality": "Canada",
@@ -1118,7 +1118,7 @@
   {
     "id": "G1036",
     "full_name": "ILYA SOROKIN",
-    "cardImage": "/images/cards/103608092025111226.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/103608092025111226.jpg",
     "position": "G",
     "team": "NYI",
     "nationality": "Russia",
@@ -1149,7 +1149,7 @@
   {
     "id": "G1037",
     "full_name": "SEMYON VARLAMOV",
-    "cardImage": "/images/cards/103708092025113027.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/103708092025113027.jpg",
     "position": "G",
     "team": "NYI",
     "nationality": "Russia",
@@ -1180,7 +1180,7 @@
   {
     "id": "G1038",
     "full_name": "DAVID RITTICH",
-    "cardImage": "/images/cards/103808092025113112.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/103808092025113112.jpg",
     "position": "G",
     "team": "NYI",
     "nationality": "Czechia",
@@ -1211,7 +1211,7 @@
   {
     "id": "G1039",
     "full_name": "MARCUS HOGBERG",
-    "cardImage": "/images/cards/103908092025113137.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/103908092025113137.jpg",
     "position": "G",
     "team": "NYI",
     "nationality": "Sweden",
@@ -1242,7 +1242,7 @@
   {
     "id": "G1040",
     "full_name": "IGOR SHESTERKIN",
-    "cardImage": "/images/cards/104008092025113422.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/104008092025113422.jpg",
     "position": "G",
     "team": "NYR",
     "nationality": "Russia",
@@ -1273,7 +1273,7 @@
   {
     "id": "G1041",
     "full_name": "JONATHAN QUICK",
-    "cardImage": "/images/cards/104108092025113442.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/104108092025113442.jpg",
     "position": "G",
     "team": "NYR",
     "nationality": "USA",
@@ -1304,7 +1304,7 @@
   {
     "id": "G1042",
     "full_name": "LINUS ULLMARK",
-    "cardImage": "/images/cards/104208092025114837.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/104208092025114837.jpg",
     "position": "G",
     "team": "OTT",
     "nationality": "Sweden",
@@ -1335,7 +1335,7 @@
   {
     "id": "G1043",
     "full_name": "LEEVI MERILAINEN",
-    "cardImage": "/images/cards/104308092025114912.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/104308092025114912.jpg",
     "position": "G",
     "team": "OTT",
     "nationality": "Finland",
@@ -1366,7 +1366,7 @@
   {
     "id": "G1044",
     "full_name": "SAMUEL ERSSON",
-    "cardImage": "/images/cards/104408092025120708.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/104408092025120708.jpg",
     "position": "G",
     "team": "PHI",
     "nationality": "Sweden",
@@ -1397,7 +1397,7 @@
   {
     "id": "G1045",
     "full_name": "DAN VLADAR",
-    "cardImage": "/images/cards/104508092025120717.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/104508092025120717.jpg",
     "position": "G",
     "team": "PHI",
     "nationality": "Czechia",
@@ -1428,7 +1428,7 @@
   {
     "id": "G1046",
     "full_name": "IVAN FEDOTOV",
-    "cardImage": "/images/cards/104608092025120721.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/104608092025120721.jpg",
     "position": "G",
     "team": "PHI",
     "nationality": "Russia",
@@ -1459,7 +1459,7 @@
   {
     "id": "G1047",
     "full_name": "ALEKSEI KOLOSOV",
-    "cardImage": "/images/cards/104708092025031317.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/104708092025031317.jpg",
     "position": "G",
     "team": "PHI",
     "nationality": "Belarus",
@@ -1490,7 +1490,7 @@
   {
     "id": "G1048",
     "full_name": "TRISTAN JARRY",
-    "cardImage": "/images/cards/104808092025033848.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/104808092025033848.jpg",
     "position": "G",
     "team": "PIT",
     "nationality": "Canada",
@@ -1521,7 +1521,7 @@
   {
     "id": "G1049",
     "full_name": "ARTURS SILOVS",
-    "cardImage": "/images/cards/104908092025033853.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/104908092025033853.jpg",
     "position": "G",
     "team": "PIT",
     "nationality": "Latvia",
@@ -1552,7 +1552,7 @@
   {
     "id": "G1050",
     "full_name": "ALEX NEDELJKOVIC",
-    "cardImage": "/images/cards/105008092025063518.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/105008092025063518.jpg",
     "position": "G",
     "team": "SJS",
     "nationality": "USA",
@@ -1583,7 +1583,7 @@
   {
     "id": "G1051",
     "full_name": "JOEY DACCORD",
-    "cardImage": "/images/cards/105108092025063659.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/105108092025063659.jpg",
     "position": "G",
     "team": "SEA",
     "nationality": "USA",
@@ -1614,7 +1614,7 @@
   {
     "id": "G1052",
     "full_name": "PHILIPP GRUBAUER",
-    "cardImage": "/images/cards/105208092025063728.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/105208092025063728.jpg",
     "position": "G",
     "team": "SEA",
     "nationality": "Germany",
@@ -1645,7 +1645,7 @@
   {
     "id": "G1053",
     "full_name": "MATT MURRAY",
-    "cardImage": "/images/cards/105308092025063745.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/105308092025063745.jpg",
     "position": "G",
     "team": "SEA",
     "nationality": "Canada",
@@ -1676,7 +1676,7 @@
   {
     "id": "G1054",
     "full_name": "JORDAN BINNINGTON",
-    "cardImage": "/images/cards/105408092025063845.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/105408092025063845.jpg",
     "position": "G",
     "team": "STL",
     "nationality": "Canada",
@@ -1707,7 +1707,7 @@
   {
     "id": "G1055",
     "full_name": "JOEL HOFER",
-    "cardImage": "/images/cards/105508092025063922.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/105508092025063922.jpg",
     "position": "G",
     "team": "STL",
     "nationality": "Canada",
@@ -1738,7 +1738,7 @@
   {
     "id": "G1056",
     "full_name": "ANDREI VASILEVSKIY",
-    "cardImage": "/images/cards/105608092025064415.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/105608092025064415.jpg",
     "position": "G",
     "team": "TBL",
     "nationality": "Russia",
@@ -1769,7 +1769,7 @@
   {
     "id": "G1057",
     "full_name": "JONAS JOHANSSON",
-    "cardImage": "/images/cards/105708092025064506.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/105708092025064506.jpg",
     "position": "G",
     "team": "TBL",
     "nationality": "Sweden",
@@ -1800,7 +1800,7 @@
   {
     "id": "G1058",
     "full_name": "ANTHONY STOLARZ",
-    "cardImage": "/images/cards/105808092025064611.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/105808092025064611.jpg",
     "position": "G",
     "team": "TOR",
     "nationality": "USA",
@@ -1831,7 +1831,7 @@
   {
     "id": "G1059",
     "full_name": "JOSEPH WOLL",
-    "cardImage": "/images/cards/105908092025064614.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/105908092025064614.jpg",
     "position": "G",
     "team": "TOR",
     "nationality": "USA",
@@ -1862,7 +1862,7 @@
   {
     "id": "G1060",
     "full_name": "KAREL VEJMELKA",
-    "cardImage": "/images/cards/106008092025064844.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/106008092025064844.jpg",
     "position": "G",
     "team": "UTA",
     "nationality": "Czechia",
@@ -1893,7 +1893,7 @@
   {
     "id": "G1061",
     "full_name": "CONNOR INGRAM",
-    "cardImage": "/images/cards/106108092025064851.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/106108092025064851.jpg",
     "position": "G",
     "team": "UTA",
     "nationality": "Canada",
@@ -1924,7 +1924,7 @@
   {
     "id": "G1062",
     "full_name": "VITEK VANECEK",
-    "cardImage": "/images/cards/106208092025064908.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/106208092025064908.jpg",
     "position": "G",
     "team": "UTA",
     "nationality": "Czechia",
@@ -1955,7 +1955,7 @@
   {
     "id": "G1063",
     "full_name": "MATTHEW VILLALTA",
-    "cardImage": "/images/cards/106308092025074503.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/106308092025074503.jpg",
     "position": "G",
     "team": "UTA",
     "nationality": "Canada",
@@ -1986,7 +1986,7 @@
   {
     "id": "G1064",
     "full_name": "THATCHER DEMKO",
-    "cardImage": "/images/cards/106408092025074520.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/106408092025074520.jpg",
     "position": "G",
     "team": "VAN",
     "nationality": "USA",
@@ -2017,7 +2017,7 @@
   {
     "id": "G1065",
     "full_name": "KEVIN LANKINEN",
-    "cardImage": "/images/cards/106508092025074652.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/106508092025074652.jpg",
     "position": "G",
     "team": "VAN",
     "nationality": "Finland",
@@ -2048,7 +2048,7 @@
   {
     "id": "G1067",
     "full_name": "ADIN HILL",
-    "cardImage": "/images/cards/106708092025080205.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/106708092025080205.jpg",
     "position": "G",
     "team": "VGK ",
     "nationality": "Canada",
@@ -2079,7 +2079,7 @@
   {
     "id": "G1068",
     "full_name": "LOGAN THOMPSON",
-    "cardImage": "/images/cards/106808092025080312.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/106808092025080312.jpg",
     "position": "G",
     "team": "WSH",
     "nationality": "Canada",
@@ -2110,7 +2110,7 @@
   {
     "id": "G1069",
     "full_name": "CHARLIE LINDGREN",
-    "cardImage": "/images/cards/106908092025080341.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/106908092025080341.jpg",
     "position": "G",
     "team": "WSH",
     "nationality": "USA",
@@ -2141,7 +2141,7 @@
   {
     "id": "G1070",
     "full_name": "CONNOR HELLEBUYCK",
-    "cardImage": "/images/cards/107008092025080501.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/107008092025080501.jpg",
     "position": "G",
     "team": "WPG",
     "nationality": "USA",
@@ -2172,7 +2172,7 @@
   {
     "id": "G1071",
     "full_name": "ERIC COMRIE",
-    "cardImage": "/images/cards/107108092025080542.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/107108092025080542.jpg",
     "position": "G",
     "team": "WPG",
     "nationality": "Canada",
@@ -2203,7 +2203,7 @@
   {
     "id": "G1072",
     "full_name": "JEAN-SEBASTIEN GIGUERE",
-    "cardImage": "/images/cards/107208092025093337.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/107208092025093337.jpg",
     "position": "G",
     "team": "ANA",
     "nationality": "Canada",
@@ -2234,7 +2234,7 @@
   {
     "id": "G1073",
     "full_name": "GUY HEBERT",
-    "cardImage": "/images/cards/107308092025093403.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/107308092025093403.jpg",
     "position": "G",
     "team": "ANA",
     "nationality": "USA",
@@ -2265,7 +2265,7 @@
   {
     "id": "G1074",
     "full_name": "ILYA BRYZGALOV",
-    "cardImage": "/images/cards/107408092025093414.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/107408092025093414.jpg",
     "position": "G",
     "team": "ANA",
     "nationality": "Russia",
@@ -2296,7 +2296,7 @@
   {
     "id": "G1075",
     "full_name": "GERRY CHEEVERS",
-    "cardImage": "/images/cards/107508092025093548.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/107508092025093548.jpg",
     "position": "G",
     "team": "BOS",
     "nationality": "Canada",
@@ -2327,7 +2327,7 @@
   {
     "id": "G1076",
     "full_name": "ANDY MOOG",
-    "cardImage": "/images/cards/107608092025093607.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/107608092025093607.jpg",
     "position": "G",
     "team": "BOS",
     "nationality": "Canada",
@@ -2358,7 +2358,7 @@
   {
     "id": "G1077",
     "full_name": "BYRON DAFOE",
-    "cardImage": "/images/cards/107708092025093620.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/107708092025093620.jpg",
     "position": "G",
     "team": "BOS",
     "nationality": "Canada",
@@ -2389,7 +2389,7 @@
   {
     "id": "G1078",
     "full_name": "EDDIE JOHNSTON",
-    "cardImage": "/images/cards/107808092025093626.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/107808092025093626.jpg",
     "position": "G",
     "team": "BOS",
     "nationality": "Canada",
@@ -2420,7 +2420,7 @@
   {
     "id": "G1079",
     "full_name": "ANDREW RAYCROFT",
-    "cardImage": "/images/cards/107908092025093629.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/107908092025093629.jpg",
     "position": "G",
     "team": "BOS",
     "nationality": "Canada",
@@ -2451,7 +2451,7 @@
   {
     "id": "G1080",
     "full_name": "DOMINIK HASEK",
-    "cardImage": "/images/cards/108008092025093725.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/108008092025093725.jpg",
     "position": "G",
     "team": "BUF",
     "nationality": "Czechia",
@@ -2482,7 +2482,7 @@
   {
     "id": "G1081",
     "full_name": "RYAN MILLER",
-    "cardImage": "/images/cards/108108092025093731.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/108108092025093731.jpg",
     "position": "G",
     "team": "BUF",
     "nationality": "USA",
@@ -2513,7 +2513,7 @@
   {
     "id": "G1082",
     "full_name": "DON EDWARDS",
-    "cardImage": "/images/cards/108208092025093744.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/108208092025093744.jpg",
     "position": "G",
     "team": "BUF",
     "nationality": "Canada",
@@ -2544,7 +2544,7 @@
   {
     "id": "G1083",
     "full_name": "MARTIN BIRON",
-    "cardImage": "/images/cards/108308092025093750.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/108308092025093750.jpg",
     "position": "G",
     "team": "BUF",
     "nationality": "Canada",
@@ -2575,7 +2575,7 @@
   {
     "id": "G1084",
     "full_name": "ROBERT SAUVE",
-    "cardImage": "/images/cards/108408092025093826.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/108408092025093826.jpg",
     "position": "G",
     "team": "BUF",
     "nationality": "Canada",
@@ -2606,7 +2606,7 @@
   {
     "id": "G1085",
     "full_name": "DAVE DRYDEN",
-    "cardImage": "/images/cards/108508092025093828.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/108508092025093828.jpg",
     "position": "G",
     "team": "BUF",
     "nationality": "Canada",
@@ -2637,7 +2637,7 @@
   {
     "id": "G1086",
     "full_name": "MIKE VERNON",
-    "cardImage": "/images/cards/108608092025093908.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/108608092025093908.jpg",
     "position": "G",
     "team": "CGY",
     "nationality": "Canada",
@@ -2668,7 +2668,7 @@
   {
     "id": "G1087",
     "full_name": "REGGIE LEMELIN",
-    "cardImage": "/images/cards/108708092025093923.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/108708092025093923.jpg",
     "position": "G",
     "team": "CGY",
     "nationality": "Canada",
@@ -2699,7 +2699,7 @@
   {
     "id": "G1088",
     "full_name": "TREVOR KIDD",
-    "cardImage": "/images/cards/108808092025093933.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/108808092025093933.jpg",
     "position": "G",
     "team": "CGY",
     "nationality": "Canada",
@@ -2730,7 +2730,7 @@
   {
     "id": "G1089",
     "full_name": "CAM WARD",
-    "cardImage": "/images/cards/108908092025094040.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/108908092025094040.jpg",
     "position": "G",
     "team": "CAR",
     "nationality": "Canada",
@@ -2761,7 +2761,7 @@
   {
     "id": "G1090",
     "full_name": "KEVIN WEEKES",
-    "cardImage": "/images/cards/109008092025094114.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/109008092025094114.jpg",
     "position": "G",
     "team": "CAR",
     "nationality": "Canada",
@@ -2792,7 +2792,7 @@
   {
     "id": "G1091",
     "full_name": "TONY ESPOSITO",
-    "cardImage": "/images/cards/109108092025094131.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/109108092025094131.jpg",
     "position": "G",
     "team": "CAR",
     "nationality": "Canada",
@@ -2823,7 +2823,7 @@
   {
     "id": "G1092",
     "full_name": "GLENN HALL",
-    "cardImage": "/images/cards/109208092025094134.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/109208092025094134.jpg",
     "position": "G",
     "team": "CAR",
     "nationality": "Canada",
@@ -2854,7 +2854,7 @@
   {
     "id": "G1093",
     "full_name": "DARREN PANG",
-    "cardImage": "/images/cards/109308092025094711.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/109308092025094711.jpg",
     "position": "G",
     "team": "CHI",
     "nationality": "Canada",
@@ -2885,7 +2885,7 @@
   {
     "id": "G1094",
     "full_name": "PATRICK ROY",
-    "cardImage": "/images/cards/109408092025094753.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/109408092025094753.jpg",
     "position": "G",
     "team": "COL",
     "nationality": "Canada",
@@ -2916,7 +2916,7 @@
   {
     "id": "G1095",
     "full_name": "DAVID AEBISCHER",
-    "cardImage": "/images/cards/109508092025094832.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/109508092025094832.jpg",
     "position": "G",
     "team": "COL",
     "nationality": "Switzerland",
@@ -2947,7 +2947,7 @@
   {
     "id": "G1096",
     "full_name": "PETER BUDAJ",
-    "cardImage": "/images/cards/109608092025094906.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/109608092025094906.jpg",
     "position": "G",
     "team": "COL",
     "nationality": "Slovakia",
@@ -2978,7 +2978,7 @@
   {
     "id": "G1097",
     "full_name": "MARC DENIS",
-    "cardImage": "/images/cards/109708092025094957.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/109708092025094957.jpg",
     "position": "G",
     "team": "CBJ",
     "nationality": "Canada",
@@ -3009,7 +3009,7 @@
   {
     "id": "G1098",
     "full_name": "MATHIEU GARON",
-    "cardImage": "/images/cards/109808092025095022.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/109808092025095022.jpg",
     "position": "G",
     "team": "CBJ",
     "nationality": "Canada",
@@ -3040,7 +3040,7 @@
   {
     "id": "G1099",
     "full_name": "ED BELFOUR",
-    "cardImage": "/images/cards/109908092025095053.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/109908092025095053.jpg",
     "position": "G",
     "team": "DAL",
     "nationality": "Canada",
@@ -3071,7 +3071,7 @@
   {
     "id": "G1100",
     "full_name": "MARTY TURCO",
-    "cardImage": "/images/cards/110008092025095103.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/110008092025095103.jpg",
     "position": "G",
     "team": "DAL",
     "nationality": "Canada",
@@ -3102,7 +3102,7 @@
   {
     "id": "G1101",
     "full_name": "TERRY SAWCHUK",
-    "cardImage": "/images/cards/110108092025095221.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/110108092025095221.jpg",
     "position": "G",
     "team": "DET",
     "nationality": "Canada",
@@ -3133,7 +3133,7 @@
   {
     "id": "G1102",
     "full_name": "CHRIS OSGOOD",
-    "cardImage": "/images/cards/110208092025095229.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/110208092025095229.jpg",
     "position": "G",
     "team": "DET",
     "nationality": "Canada",
@@ -3164,7 +3164,7 @@
   {
     "id": "G1103",
     "full_name": "JIMMY HOWARD",
-    "cardImage": "/images/cards/110308092025095234.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/110308092025095234.jpg",
     "position": "G",
     "team": "DET",
     "nationality": "USA",
@@ -3195,7 +3195,7 @@
   {
     "id": "G1104",
     "full_name": "GRANT FUHR",
-    "cardImage": "/images/cards/110408092025100855.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/110408092025100855.jpg",
     "position": "G",
     "team": "EDM",
     "nationality": "Canada",
@@ -3226,7 +3226,7 @@
   {
     "id": "G1105",
     "full_name": "BILL RANFORD",
-    "cardImage": "/images/cards/110508092025100903.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/110508092025100903.jpg",
     "position": "G",
     "team": "EDM",
     "nationality": "Canada",
@@ -3257,7 +3257,7 @@
   {
     "id": "G1106",
     "full_name": "TY CONKLIN",
-    "cardImage": "/images/cards/110608092025101007.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/110608092025101007.jpg",
     "position": "G",
     "team": "EDM",
     "nationality": "USA",
@@ -3288,7 +3288,7 @@
   {
     "id": "G1107",
     "full_name": "ROBERTO LUONGO",
-    "cardImage": "/images/cards/110708092025101038.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/110708092025101038.jpg",
     "position": "G",
     "team": "FLA",
     "nationality": "Canada",
@@ -3319,7 +3319,7 @@
   {
     "id": "G1108",
     "full_name": "ELVIS MERZLIKINS",
-    "cardImage": "/images/cards/110808092025101506.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/110808092025101506.jpg",
     "position": "G",
     "team": "CBJ",
     "nationality": "Latvia",
@@ -3350,7 +3350,7 @@
   {
     "id": "G1109",
     "full_name": "MARK FITZPATRICK",
-    "cardImage": "/images/cards/110908092025102320.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/110908092025102320.jpg",
     "position": "G",
     "team": "FLA",
     "nationality": "Canada",
@@ -3381,7 +3381,7 @@
   {
     "id": "G1110",
     "full_name": "SEAN BURKE",
-    "cardImage": "/images/cards/111008092025102415.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/111008092025102415.jpg",
     "position": "G",
     "team": "HFD",
     "nationality": "Canada",
@@ -3412,7 +3412,7 @@
   {
     "id": "G1111",
     "full_name": "MICHAEL LIUT",
-    "cardImage": "/images/cards/111108092025102421.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/111108092025102421.jpg",
     "position": "G",
     "team": "HFD",
     "nationality": "Canada",
@@ -3443,7 +3443,7 @@
   {
     "id": "G1112",
     "full_name": "GREG MILLEN",
-    "cardImage": "/images/cards/111208092025102438.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/111208092025102438.jpg",
     "position": "G",
     "team": "HFD",
     "nationality": "Canada",
@@ -3474,7 +3474,7 @@
   {
     "id": "G1113",
     "full_name": "JASON MUZZATTI",
-    "cardImage": "/images/cards/111308092025102453.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/111308092025102453.jpg",
     "position": "G",
     "team": "HFD",
     "nationality": "Italy",
@@ -3505,7 +3505,7 @@
   {
     "id": "G1114",
     "full_name": "ROGIE VACHON",
-    "cardImage": "/images/cards/111408092025102618.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/111408092025102618.jpg",
     "position": "G",
     "team": "LAK",
     "nationality": "Canada",
@@ -3536,7 +3536,7 @@
   {
     "id": "G1115",
     "full_name": "KELLY HRUDEY",
-    "cardImage": "/images/cards/111508092025102638.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/111508092025102638.jpg",
     "position": "G",
     "team": "LAK",
     "nationality": "Canada",
@@ -3567,7 +3567,7 @@
   {
     "id": "G1116",
     "full_name": "JASON LABARBERA",
-    "cardImage": "/images/cards/111608092025102651.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/111608092025102651.jpg",
     "position": "G",
     "team": "LAK",
     "nationality": "Canada",
@@ -3598,7 +3598,7 @@
   {
     "id": "G1117",
     "full_name": "GILLES MELOCHE",
-    "cardImage": "/images/cards/111708092025105514.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/111708092025105514.jpg",
     "position": "G",
     "team": "MIN",
     "nationality": "Canada",
@@ -3629,7 +3629,7 @@
   {
     "id": "G1118",
     "full_name": "PAUL HARRISON",
-    "cardImage": "/images/cards/111808092025105523.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/111808092025105523.jpg",
     "position": "G",
     "team": "MIN",
     "nationality": "Canada",
@@ -3660,7 +3660,7 @@
   {
     "id": "G1119",
     "full_name": "GARY SMITH",
-    "cardImage": "/images/cards/111908092025105529.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/111908092025105529.jpg",
     "position": "G",
     "team": "MIN",
     "nationality": "Canada",
@@ -3691,7 +3691,7 @@
   {
     "id": "G1120",
     "full_name": "PETE LOPRESTI",
-    "cardImage": "/images/cards/112008092025105534.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/112008092025105534.jpg",
     "position": "G",
     "team": "MIN",
     "nationality": "USA",
@@ -3722,7 +3722,7 @@
   {
     "id": "G1121",
     "full_name": "NIKLAS BACKSTROM",
-    "cardImage": "/images/cards/112108092025105545.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/112108092025105545.jpg",
     "position": "G",
     "team": "MIN",
     "nationality": "Finland",
@@ -3753,7 +3753,7 @@
   {
     "id": "G1122",
     "full_name": "DWAYNE ROLOSON",
-    "cardImage": "/images/cards/112208092025105626.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/112208092025105626.jpg",
     "position": "G",
     "team": "MIN",
     "nationality": "Canada",
@@ -3784,7 +3784,7 @@
   {
     "id": "G1123",
     "full_name": "ZAC BIERK",
-    "cardImage": "/images/cards/112308092025105654.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/112308092025105654.jpg",
     "position": "G",
     "team": "MIN",
     "nationality": "Canada",
@@ -3815,7 +3815,7 @@
   {
     "id": "G1124",
     "full_name": "JACQUES PLANTE",
-    "cardImage": "/images/cards/112408092025105724.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/112408092025105724.jpg",
     "position": "G",
     "team": "MTL",
     "nationality": "Canada",
@@ -3846,7 +3846,7 @@
   {
     "id": "G1125",
     "full_name": "PEKKA RINNE",
-    "cardImage": "/images/cards/112508092025105936.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/112508092025105936.jpg",
     "position": "G",
     "team": "NSH",
     "nationality": "Finland",
@@ -3877,7 +3877,7 @@
   {
     "id": "G1126",
     "full_name": "TOMAS VOKOUN",
-    "cardImage": "/images/cards/112608092025105942.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/112608092025105942.jpg",
     "position": "G",
     "team": "NSH",
     "nationality": "Czechia",
@@ -3908,7 +3908,7 @@
   {
     "id": "G1127",
     "full_name": "CHRIS MASON",
-    "cardImage": "/images/cards/112708092025110012.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/112708092025110012.jpg",
     "position": "G",
     "team": "NSH",
     "nationality": "Canada",
@@ -3939,7 +3939,7 @@
   {
     "id": "G1128",
     "full_name": "MARTIN BRODEUR",
-    "cardImage": "/images/cards/112808092025110039.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/112808092025110039.jpg",
     "position": "G",
     "team": "NJD",
     "nationality": "Canada",
@@ -3970,7 +3970,7 @@
   {
     "id": "G1129",
     "full_name": "CHRIS TERRERI",
-    "cardImage": "/images/cards/112908092025110201.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/112908092025110201.jpg",
     "position": "G",
     "team": "NJD",
     "nationality": "USA",
@@ -4001,7 +4001,7 @@
   {
     "id": "G1130",
     "full_name": "ALAIN CHEVRIER",
-    "cardImage": "/images/cards/113008092025110203.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/113008092025110203.jpg",
     "position": "G",
     "team": "NJD",
     "nationality": "Canada",
@@ -4032,7 +4032,7 @@
   {
     "id": "G1131",
     "full_name": "BILLY SMITH",
-    "cardImage": "/images/cards/113108092025110315.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/113108092025110315.jpg",
     "position": "G",
     "team": "NYI",
     "nationality": "Canada",
@@ -4063,7 +4063,7 @@
   {
     "id": "G1132",
     "full_name": "RICK DIPIETRO",
-    "cardImage": "/images/cards/113208092025110329.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/113208092025110329.jpg",
     "position": "G",
     "team": "NYI",
     "nationality": "USA",
@@ -4094,7 +4094,7 @@
   {
     "id": "G1133",
     "full_name": "CHICO RESCH",
-    "cardImage": "/images/cards/113308092025110339.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/113308092025110339.jpg",
     "position": "G",
     "team": "NYI",
     "nationality": "Canada",
@@ -4125,7 +4125,7 @@
   {
     "id": "G1134",
     "full_name": "TOMMY SODERSTROM",
-    "cardImage": "/images/cards/113408092025110413.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/113408092025110413.jpg",
     "position": "G",
     "team": "NYI",
     "nationality": "Sweden",
@@ -4156,7 +4156,7 @@
   {
     "id": "G1135",
     "full_name": "HENRIK LUNDQVIST",
-    "cardImage": "/images/cards/113508092025110422.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/113508092025110422.jpg",
     "position": "G",
     "team": "NYR",
     "nationality": "Sweden",
@@ -4187,7 +4187,7 @@
   {
     "id": "G1136",
     "full_name": "MIKE RICHTER",
-    "cardImage": "/images/cards/113608092025110436.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/113608092025110436.jpg",
     "position": "G",
     "team": "NYR",
     "nationality": "USA",
@@ -4218,7 +4218,7 @@
   {
     "id": "G1137",
     "full_name": "EDDIE GIACOMIN",
-    "cardImage": "/images/cards/113708092025110603.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/113708092025110603.jpg",
     "position": "G",
     "team": "NYR",
     "nationality": "Canada",
@@ -4249,7 +4249,7 @@
   {
     "id": "G1138",
     "full_name": "GILLES VILLEMURE",
-    "cardImage": "/images/cards/113808092025110637.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/113808092025110637.jpg",
     "position": "G",
     "team": "NYR",
     "nationality": "Canada",
@@ -4280,7 +4280,7 @@
   {
     "id": "G1139",
     "full_name": "JOHN DAVIDSON",
-    "cardImage": "/images/cards/113908092025110644.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/113908092025110644.jpg",
     "position": "G",
     "team": "NYR",
     "nationality": "Canada",
@@ -4311,7 +4311,7 @@
   {
     "id": "G1140",
     "full_name": "GLENN HEALY",
-    "cardImage": "/images/cards/114008092025110649.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/114008092025110649.jpg",
     "position": "G",
     "team": "NYR",
     "nationality": "Canada",
@@ -4342,7 +4342,7 @@
   {
     "id": "G1141",
     "full_name": "ANDREW HAMMOND",
-    "cardImage": "/images/cards/114108092025110836.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/114108092025110836.jpg",
     "position": "G",
     "team": "OTT",
     "nationality": "Canada",
@@ -4373,7 +4373,7 @@
   {
     "id": "G1142",
     "full_name": "DARRIN MADELEY",
-    "cardImage": "/images/cards/114208092025110847.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/114208092025110847.jpg",
     "position": "G",
     "team": "OTT",
     "nationality": "Canada",
@@ -4404,7 +4404,7 @@
   {
     "id": "G1143",
     "full_name": "BERNIE PARENT",
-    "cardImage": "/images/cards/114308092025113018.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/114308092025113018.jpg",
     "position": "G",
     "team": "PHI",
     "nationality": "Canada",
@@ -4435,7 +4435,7 @@
   {
     "id": "G1144",
     "full_name": "RON HEXTALL",
-    "cardImage": "/images/cards/114408092025113025.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/114408092025113025.jpg",
     "position": "G",
     "team": "PHI",
     "nationality": "Canada",
@@ -4466,7 +4466,7 @@
   {
     "id": "G1145",
     "full_name": "DENIS HERRON",
-    "cardImage": "/images/cards/114508092025113408.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/114508092025113408.jpg",
     "position": "G",
     "team": "PIT",
     "nationality": "Canada",
@@ -4497,7 +4497,7 @@
   {
     "id": "G1146",
     "full_name": "KEN WREGGET",
-    "cardImage": "/images/cards/114608092025113415.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/114608092025113415.jpg",
     "position": "G",
     "team": "PIT",
     "nationality": "Canada",
@@ -4528,7 +4528,7 @@
   {
     "id": "G1147",
     "full_name": "JOHAN HEDBERG",
-    "cardImage": "/images/cards/114708092025113417.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/114708092025113417.jpg",
     "position": "G",
     "team": "PIT",
     "nationality": "Sweden",
@@ -4559,7 +4559,7 @@
   {
     "id": "G1148",
     "full_name": "DAN BOUCHARD",
-    "cardImage": "/images/cards/114808092025113503.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/114808092025113503.jpg",
     "position": "G",
     "team": "QUE",
     "nationality": "Canada",
@@ -4590,7 +4590,7 @@
   {
     "id": "G1149",
     "full_name": "CLINT MALARCHUK",
-    "cardImage": "/images/cards/114908092025113514.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/114908092025113514.jpg",
     "position": "G",
     "team": "QUE",
     "nationality": "Canada",
@@ -4621,7 +4621,7 @@
   {
     "id": "G1150",
     "full_name": "JOCELYN THIBAULT",
-    "cardImage": "/images/cards/115008092025113521.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/115008092025113521.jpg",
     "position": "G",
     "team": "QUE",
     "nationality": "Canada",
@@ -4652,7 +4652,7 @@
   {
     "id": "G1151",
     "full_name": "JOHN GARRETT",
-    "cardImage": "/images/cards/115108092025114807.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/115108092025114807.jpg",
     "position": "G",
     "team": "QUE",
     "nationality": "Canada",
@@ -4683,7 +4683,7 @@
   {
     "id": "G1152",
     "full_name": "EVGENI NABOKOV",
-    "cardImage": "/images/cards/115208092025114840.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/115208092025114840.jpg",
     "position": "G",
     "team": "SJS",
     "nationality": "Russia",
@@ -4714,7 +4714,7 @@
   {
     "id": "G1153",
     "full_name": "VESA TOSKALA",
-    "cardImage": "/images/cards/115308092025114924.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/115308092025114924.jpg",
     "position": "G",
     "team": "SJS",
     "nationality": "Finland",
@@ -4745,7 +4745,7 @@
   {
     "id": "G1154",
     "full_name": "CURTIS JOSEPH",
-    "cardImage": "/images/cards/115408092025115145.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/115408092025115145.jpg",
     "position": "G",
     "team": "STL",
     "nationality": "Canada",
@@ -4776,7 +4776,7 @@
   {
     "id": "G1155",
     "full_name": "JAMIE MCLENNAN",
-    "cardImage": "/images/cards/115508092025115221.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/115508092025115221.jpg",
     "position": "G",
     "team": "STL",
     "nationality": "Canada",
@@ -4807,7 +4807,7 @@
   {
     "id": "G1156",
     "full_name": "COREY SCHWAB",
-    "cardImage": "/images/cards/115608092025115445.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/115608092025115445.jpg",
     "position": "G",
     "team": "TBL",
     "nationality": "Canada",
@@ -4838,7 +4838,7 @@
   {
     "id": "G1157",
     "full_name": "WALTER BRODA",
-    "cardImage": "/images/cards/115708092025115523.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/115708092025115523.jpg",
     "position": "G",
     "team": "TOR",
     "nationality": "Canada",
@@ -4869,7 +4869,7 @@
   {
     "id": "G1158",
     "full_name": "JOHNNY BOWER",
-    "cardImage": "/images/cards/115808092025115532.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/115808092025115532.jpg",
     "position": "G",
     "team": "TOR",
     "nationality": "Canada",
@@ -4900,7 +4900,7 @@
   {
     "id": "G1159",
     "full_name": "FELIX POTVIN",
-    "cardImage": "/images/cards/115908092025115619.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/115908092025115619.jpg",
     "position": "G",
     "team": "TOR",
     "nationality": "Canada",
@@ -4931,7 +4931,7 @@
   {
     "id": "G1160",
     "full_name": "KIRK MCLEAN",
-    "cardImage": "/images/cards/116008092025115734.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/116008092025115734.jpg",
     "position": "G",
     "team": "VAN",
     "nationality": "Canada",
@@ -4962,7 +4962,7 @@
   {
     "id": "G1161",
     "full_name": "BRIAN HAYWARD",
-    "cardImage": "/images/cards/116109092025060516.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/116109092025060516.jpg",
     "position": "G",
     "team": "WPG",
     "nationality": "Canada",
@@ -4993,7 +4993,7 @@
   {
     "id": "G1162",
     "full_name": "CRAIG ANDERSON",
-    "cardImage": "/images/cards/116209092025081852.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/116209092025081852.jpg",
     "position": "G",
     "team": "OTT",
     "nationality": "USA",
@@ -5024,7 +5024,7 @@
   {
     "id": "G1163",
     "full_name": "RICK WAMSLEY",
-    "cardImage": "/images/cards/116309092025081945.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/116309092025081945.jpg",
     "position": "G",
     "team": "STL",
     "nationality": "Canada",
@@ -5055,7 +5055,7 @@
   {
     "id": "G1164",
     "full_name": "JOHN GRAHAME",
-    "cardImage": "/images/cards/116409092025082010.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/116409092025082010.jpg",
     "position": "G",
     "team": "TBL",
     "nationality": "USA",
@@ -5086,7 +5086,7 @@
   {
     "id": "G1165",
     "full_name": "RICHARD BRODEUR",
-    "cardImage": "/images/cards/116509092025082144.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/116509092025082144.jpg",
     "position": "G",
     "team": "VAN",
     "nationality": "Canada",
@@ -5117,7 +5117,7 @@
   {
     "id": "G1166",
     "full_name": "OLAF KOLZIG",
-    "cardImage": "/images/cards/116609092025082355.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/116609092025082355.jpg",
     "position": "G",
     "team": "WSH",
     "nationality": "Germany",
@@ -5148,7 +5148,7 @@
   {
     "id": "G1167",
     "full_name": "RON LOW",
-    "cardImage": "/images/cards/116709092025083905.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/116709092025083905.jpg",
     "position": "G",
     "team": "WSH",
     "nationality": "Canada",
@@ -5179,7 +5179,7 @@
   {
     "id": "G1168",
     "full_name": "MICHAEL PALMATEER",
-    "cardImage": "/images/cards/116809092025083919.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/116809092025083919.jpg",
     "position": "G",
     "team": "WSH",
     "nationality": "Canada",
@@ -5210,7 +5210,7 @@
   {
     "id": "G1169",
     "full_name": "DOUGLAS SOETAERT",
-    "cardImage": "/images/cards/116909092025084103.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/116909092025084103.jpg",
     "position": "G",
     "team": "WPG",
     "nationality": "Canada",
@@ -5241,7 +5241,7 @@
   {
     "id": "G1170",
     "full_name": "JOHN GIBSON",
-    "cardImage": "/images/cards/117009092025075647.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/117009092025075647.jpg",
     "position": "G",
     "team": "DET",
     "nationality": "USA",
@@ -5272,7 +5272,7 @@
   {
     "id": "G1171",
     "full_name": "AERIN FRANKEL",
-    "cardImage": "/images/cards/117109092025081926.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/117109092025081926.jpg",
     "position": "G",
     "team": "BOS",
     "nationality": "USA",
@@ -5303,7 +5303,7 @@
   {
     "id": "G1172",
     "full_name": "ABBEY LEVY",
-    "cardImage": "/images/cards/117209092025082707.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/117209092025082707.jpg",
     "position": "G",
     "team": "BOS",
     "nationality": "USA",
@@ -5334,7 +5334,7 @@
   {
     "id": "G1173",
     "full_name": "NICOLE HENSLEY",
-    "cardImage": "/images/cards/117309092025104951.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/117309092025104951.jpg",
     "position": "G",
     "team": "MIN",
     "nationality": "USA",
@@ -5365,7 +5365,7 @@
   {
     "id": "G1174",
     "full_name": "ANN-RENEE DESBIENS",
-    "cardImage": "/images/cards/117409092025105127.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/117409092025105127.jpg",
     "position": "G",
     "team": "MTL",
     "nationality": "Canada",
@@ -5396,7 +5396,7 @@
   {
     "id": "G1175",
     "full_name": "KAYLE OSBORNE",
-    "cardImage": "/images/cards/117509092025105252.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/117509092025105252.jpg",
     "position": "G",
     "team": "NY",
     "nationality": "Canada",
@@ -5427,7 +5427,7 @@
   {
     "id": "G1176",
     "full_name": "GWYNETH PHILIPS",
-    "cardImage": "/images/cards/117609092025105408.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/117609092025105408.jpg",
     "position": "G",
     "team": "OTT",
     "nationality": "USA",
@@ -5458,7 +5458,7 @@
   {
     "id": "G1177",
     "full_name": "LOGAN ANGERS",
-    "cardImage": "/images/cards/117709092025105410.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/117709092025105410.jpg",
     "position": "G",
     "team": "OTT",
     "nationality": "Canada",
@@ -5489,7 +5489,7 @@
   {
     "id": "G1178",
     "full_name": "ELAINE CHULI",
-    "cardImage": "/images/cards/117809092025105539.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/117809092025105539.jpg",
     "position": "G",
     "team": "TOR",
     "nationality": "Canada",
@@ -5520,7 +5520,7 @@
   {
     "id": "G1179",
     "full_name": "RAYGAN KIRK",
-    "cardImage": "/images/cards/117909092025105542.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/117909092025105542.jpg",
     "position": "G",
     "team": "TOR",
     "nationality": "Canada",
@@ -5551,7 +5551,7 @@
   {
     "id": "G1180",
     "full_name": "CORINNE SCHROEDER",
-    "cardImage": "/images/cards/118009092025105808.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/118009092025105808.jpg",
     "position": "G",
     "team": "SEA",
     "nationality": "Canada",
@@ -5582,7 +5582,7 @@
   {
     "id": "G1181",
     "full_name": "CARLY JACKSON",
-    "cardImage": "/images/cards/118109092025105834.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/118109092025105834.jpg",
     "position": "G",
     "team": "SEA",
     "nationality": "Canada",
@@ -5613,7 +5613,7 @@
   {
     "id": "G1182",
     "full_name": "EMERANCE MASCHMEYER",
-    "cardImage": "/images/cards/118209092025110406.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/118209092025110406.jpg",
     "position": "G",
     "team": "VAN",
     "nationality": "Canada",
@@ -5644,7 +5644,7 @@
   {
     "id": "G1183",
     "full_name": "MADDIE ROONEY",
-    "cardImage": "/images/cards/118309092025110820.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/118309092025110820.jpg",
     "position": "G",
     "team": "MIN",
     "nationality": "USA",
@@ -5675,7 +5675,7 @@
   {
     "id": "G1184",
     "full_name": "KRISTEN CAMPBELL",
-    "cardImage": "/images/cards/118409092025110828.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/118409092025110828.jpg",
     "position": "G",
     "team": "VAN",
     "nationality": "Canada",
@@ -5706,7 +5706,7 @@
   {
     "id": "G1186",
     "full_name": "KEVIN WEEKES",
-    "cardImage": "/images/cards/118610092025075626.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/118610092025075626.jpg",
     "position": "G",
     "team": "CAR",
     "nationality": "Canada",
@@ -5737,7 +5737,7 @@
   {
     "id": "G1188",
     "full_name": "JEAN-SEBASTIEN GIGUERE",
-    "cardImage": "/images/cards/118812092025055845.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/118812092025055845.jpg",
     "position": "G",
     "team": "ANA",
     "nationality": "Canada",
@@ -5768,7 +5768,7 @@
   {
     "id": "G1189",
     "full_name": "JORDAN BINNINGTON",
-    "cardImage": "/images/cards/118912092025060024.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/118912092025060024.jpg",
     "position": "G",
     "team": "STL",
     "nationality": "Canada",
@@ -5799,7 +5799,7 @@
   {
     "id": "G1190",
     "full_name": "THATCHER DEMKO",
-    "cardImage": "/images/cards/119012092025092246.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/119012092025092246.jpg",
     "position": "G",
     "team": "VAN",
     "nationality": "USA",
@@ -5830,7 +5830,7 @@
   {
     "id": "G1191",
     "full_name": "THATCHER DEMKO",
-    "cardImage": "/images/cards/119112092025092246.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/119112092025092246.jpg",
     "position": "G",
     "team": "VAN",
     "nationality": "USA",
@@ -5861,7 +5861,7 @@
   {
     "id": "G1192",
     "full_name": "THATCHER DEMKO",
-    "cardImage": "/images/cards/119212092025092246.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/119212092025092246.jpg",
     "position": "G",
     "team": "VAN",
     "nationality": "USA",
@@ -5892,7 +5892,7 @@
   {
     "id": "G1193",
     "full_name": "THATCHER DEMKO",
-    "cardImage": "/images/cards/119312092025092246.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/119312092025092246.jpg",
     "position": "G",
     "team": "VAN",
     "nationality": "USA",
@@ -5923,7 +5923,7 @@
   {
     "id": "G1194",
     "full_name": "THATCHER DEMKO",
-    "cardImage": "/images/cards/119412092025092246.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/119412092025092246.jpg",
     "position": "G",
     "team": "VAN",
     "nationality": "USA",
@@ -5954,7 +5954,7 @@
   {
     "id": "G1195",
     "full_name": "THATCHER DEMKO",
-    "cardImage": "/images/cards/119512092025092246.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/119512092025092246.jpg",
     "position": "G",
     "team": "VAN",
     "nationality": "USA",
@@ -5985,7 +5985,7 @@
   {
     "id": "G1196",
     "full_name": "DUSTIN WOLF",
-    "cardImage": "/images/cards/119613092025082557.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/goalies/119613092025082557.jpg",
     "position": "G",
     "team": "CGY",
     "nationality": "USA",

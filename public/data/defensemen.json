@@ -2,7 +2,7 @@
   {
     "id": "1003",
     "full_name": "JACOB TROUBA",
-    "cardImage": "/images/cards/100307092025091250.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/100307092025091250.jpg",
     "position": "RD",
     "team": "ANA",
     "nationality": "USA",
@@ -43,7 +43,7 @@
   {
     "id": "1006",
     "full_name": "PAVEL MINTYUKOV",
-    "cardImage": "/images/cards/100607092025091312.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/100607092025091312.jpg",
     "position": "LD",
     "team": "ANA",
     "nationality": "Russia",
@@ -84,7 +84,7 @@
   {
     "id": "1011",
     "full_name": "DREW HELLESON",
-    "cardImage": "/images/cards/101107092025091343.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/101107092025091343.jpg",
     "position": "RD",
     "team": "ANA",
     "nationality": "USA",
@@ -125,7 +125,7 @@
   {
     "id": "1012",
     "full_name": "JACKSON LACOMBE",
-    "cardImage": "/images/cards/101207092025091436.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/101207092025091436.jpg",
     "position": "LD",
     "team": "ANA",
     "nationality": "USA",
@@ -166,7 +166,7 @@
   {
     "id": "1015",
     "full_name": "OLEN ZELLWEGER",
-    "cardImage": "/images/cards/101507092025091534.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/101507092025091534.jpg",
     "position": "LD",
     "team": "ANA",
     "nationality": "Canada",
@@ -207,7 +207,7 @@
   {
     "id": "1016",
     "full_name": "RADKO GUDAS",
-    "cardImage": "/images/cards/101607092025091755.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/101607092025091755.jpg",
     "position": "RD",
     "team": "ANA",
     "nationality": "Czechia",
@@ -248,7 +248,7 @@
   {
     "id": "1024",
     "full_name": "HAMPUS LINDHOLM",
-    "cardImage": "/images/cards/102407092025092246.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/102407092025092246.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "Sweden",
@@ -289,7 +289,7 @@
   {
     "id": "1025",
     "full_name": "CHARLIE MCAVOY",
-    "cardImage": "/images/cards/102507092025092257.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/102507092025092257.jpg",
     "position": "RD",
     "team": "BOS",
     "nationality": "USA",
@@ -330,7 +330,7 @@
   {
     "id": "1028",
     "full_name": "MASON LOHREI",
-    "cardImage": "/images/cards/102807092025092418.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/102807092025092418.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "USA",
@@ -371,7 +371,7 @@
   {
     "id": "1029",
     "full_name": "HAMPUS LINDHOLM",
-    "cardImage": "/images/cards/102907092025092422.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/102907092025092422.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "Sweden",
@@ -412,7 +412,7 @@
   {
     "id": "1030",
     "full_name": "NIKITA ZADOROV",
-    "cardImage": "/images/cards/103007092025092425.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/103007092025092425.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "Russia",
@@ -453,7 +453,7 @@
   {
     "id": "1032",
     "full_name": "HENRI JOKIHARJU",
-    "cardImage": "/images/cards/103207092025092438.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/103207092025092438.jpg",
     "position": "RD",
     "team": "BOS",
     "nationality": "Finland",
@@ -494,7 +494,7 @@
   {
     "id": "1033",
     "full_name": "ANDREW PEEKE",
-    "cardImage": "/images/cards/103307092025092445.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/103307092025092445.jpg",
     "position": "RD",
     "team": "BOS",
     "nationality": "USA",
@@ -535,7 +535,7 @@
   {
     "id": "1037",
     "full_name": "JORDAN HARRIS",
-    "cardImage": "/images/cards/103707092025092504.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/103707092025092504.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "USA",
@@ -576,7 +576,7 @@
   {
     "id": "1042",
     "full_name": "MICHAEL CALLAHAN",
-    "cardImage": "/images/cards/104207092025092549.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/104207092025092549.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "USA",
@@ -617,7 +617,7 @@
   {
     "id": "1046",
     "full_name": "RASMUS DAHLIN",
-    "cardImage": "/images/cards/104607092025093237.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/104607092025093237.jpg",
     "position": "LD",
     "team": "BUF",
     "nationality": "Sweden",
@@ -658,7 +658,7 @@
   {
     "id": "1047",
     "full_name": "BOWEN BYRAM",
-    "cardImage": "/images/cards/104707092025093241.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/104707092025093241.jpg",
     "position": "LD",
     "team": "BUF",
     "nationality": "Canada",
@@ -699,7 +699,7 @@
   {
     "id": "1049",
     "full_name": "OWEN POWER",
-    "cardImage": "/images/cards/104907092025093251.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/104907092025093251.jpg",
     "position": "LD",
     "team": "BUF",
     "nationality": "Canada",
@@ -740,7 +740,7 @@
   {
     "id": "1054",
     "full_name": "MORGAN RIELLY",
-    "cardImage": "/images/cards/105407092025100206.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/105407092025100206.jpg",
     "position": "LD",
     "team": "TOR",
     "nationality": "Canada",
@@ -781,7 +781,7 @@
   {
     "id": "1055",
     "full_name": "BROCK FABER",
-    "cardImage": "/images/cards/105507092025100219.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/105507092025100219.jpg",
     "position": "RD",
     "team": "MIN",
     "nationality": "USA",
@@ -822,7 +822,7 @@
   {
     "id": "1058",
     "full_name": "VLADISLAV GAVRIKOV",
-    "cardImage": "/images/cards/105807092025100250.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/105807092025100250.jpg",
     "position": "LD",
     "team": "NYR",
     "nationality": "Russia",
@@ -863,7 +863,7 @@
   {
     "id": "1061",
     "full_name": "JAMIE DRYSDALE",
-    "cardImage": "/images/cards/106107092025100448.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/106107092025100448.jpg",
     "position": "RD",
     "team": "PHI",
     "nationality": "Canada",
@@ -904,7 +904,7 @@
   {
     "id": "1065",
     "full_name": "CODY CECI",
-    "cardImage": "/images/cards/106507092025100716.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/106507092025100716.jpg",
     "position": "RD",
     "team": "LAK",
     "nationality": "Canada",
@@ -945,7 +945,7 @@
   {
     "id": "1069",
     "full_name": "CHRIS CHELIOS",
-    "cardImage": "/images/cards/106907092025101750.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/106907092025101750.jpg",
     "position": "RD",
     "team": "CHI",
     "nationality": "USA",
@@ -986,7 +986,7 @@
   {
     "id": "1072",
     "full_name": "CHRIS PRONGER",
-    "cardImage": "/images/cards/107207092025101823.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/107207092025101823.jpg",
     "position": "LD",
     "team": "STL",
     "nationality": "Canada",
@@ -1027,7 +1027,7 @@
   {
     "id": "1073",
     "full_name": "ZDENO CHARA",
-    "cardImage": "/images/cards/107307092025101840.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/107307092025101840.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "Slovakia",
@@ -1068,7 +1068,7 @@
   {
     "id": "1075",
     "full_name": "ROB BLAKE",
-    "cardImage": "/images/cards/107507092025101924.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/107507092025101924.jpg",
     "position": "RD",
     "team": "LAK",
     "nationality": "Canada",
@@ -1109,7 +1109,7 @@
   {
     "id": "1079",
     "full_name": "JONAS BRODIN",
-    "cardImage": "/images/cards/107907092025102234.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/107907092025102234.jpg",
     "position": "LD",
     "team": "MIN",
     "nationality": "Sweden",
@@ -1150,7 +1150,7 @@
   {
     "id": "1082",
     "full_name": "MACKENZIE WEEGAR",
-    "cardImage": "/images/cards/108207092025102318.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/108207092025102318.jpg",
     "position": "LD",
     "team": "CGY",
     "nationality": "Canada",
@@ -1191,7 +1191,7 @@
   {
     "id": "1085",
     "full_name": "RASMUS ANDERSSON",
-    "cardImage": "/images/cards/108507092025103044.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/108507092025103044.jpg",
     "position": "RD",
     "team": "CGY",
     "nationality": "Sweden",
@@ -1232,7 +1232,7 @@
   {
     "id": "1086",
     "full_name": "MACKENZIE WEEGAR",
-    "cardImage": "/images/cards/108607092025103048.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/108607092025103048.jpg",
     "position": "LD",
     "team": "CGY",
     "nationality": "Canada",
@@ -1273,7 +1273,7 @@
   {
     "id": "1091",
     "full_name": "ZAYNE PAREKH",
-    "cardImage": "/images/cards/109107092025103426.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/109107092025103426.jpg",
     "position": "RD",
     "team": "CGY",
     "nationality": "Canada",
@@ -1314,7 +1314,7 @@
   {
     "id": "1096",
     "full_name": "JAKE BEAN",
-    "cardImage": "/images/cards/109607092025103505.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/109607092025103505.jpg",
     "position": "LD",
     "team": "CGY",
     "nationality": "Canada",
@@ -1355,7 +1355,7 @@
   {
     "id": "1099",
     "full_name": "JOEL HANLEY",
-    "cardImage": "/images/cards/109907092025103513.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/109907092025103513.jpg",
     "position": "LD",
     "team": "CGY",
     "nationality": "Canada",
@@ -1396,7 +1396,7 @@
   {
     "id": "1100",
     "full_name": "DANIIL MIROMANOV",
-    "cardImage": "/images/cards/110007092025103521.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/110007092025103521.jpg",
     "position": "RD",
     "team": "CGY",
     "nationality": "Russia",
@@ -1437,7 +1437,7 @@
   {
     "id": "1101",
     "full_name": "KEVIN BAHL",
-    "cardImage": "/images/cards/110107092025103525.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/110107092025103525.jpg",
     "position": "LD",
     "team": "CGY",
     "nationality": "Canada",
@@ -1478,7 +1478,7 @@
   {
     "id": "1104",
     "full_name": "BRAYDEN PACHAL",
-    "cardImage": "/images/cards/110407092025103534.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/110407092025103534.jpg",
     "position": "RD",
     "team": "CGY",
     "nationality": "Canada",
@@ -1519,7 +1519,7 @@
   {
     "id": "1107",
     "full_name": "JACCOB SLAVIN",
-    "cardImage": "/images/cards/110707092025105847.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/110707092025105847.jpg",
     "position": "LD",
     "team": "CAR",
     "nationality": "USA",
@@ -1560,7 +1560,7 @@
   {
     "id": "1109",
     "full_name": "SHAYNE GOSTISBEHERE",
-    "cardImage": "/images/cards/110907092025105901.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/110907092025105901.jpg",
     "position": "LD",
     "team": "CAR",
     "nationality": "USA",
@@ -1601,7 +1601,7 @@
   {
     "id": "1113",
     "full_name": "K&apos;ANDRE MILLER",
-    "cardImage": "/images/cards/111307092025105918.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/111307092025105918.jpg",
     "position": "LD",
     "team": "CAR",
     "nationality": "USA",
@@ -1642,7 +1642,7 @@
   {
     "id": "1114",
     "full_name": "JALEN CHATFIELD",
-    "cardImage": "/images/cards/111407092025105921.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/111407092025105921.jpg",
     "position": "RD",
     "team": "CAR",
     "nationality": "USA",
@@ -1683,7 +1683,7 @@
   {
     "id": "1119",
     "full_name": "SEAN WALKER",
-    "cardImage": "/images/cards/111907092025105935.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/111907092025105935.jpg",
     "position": "RD",
     "team": "CAR",
     "nationality": "Canada",
@@ -1724,7 +1724,7 @@
   {
     "id": "1123",
     "full_name": "MIKE REILLY",
-    "cardImage": "/images/cards/112307092025110003.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/112307092025110003.jpg",
     "position": "LD",
     "team": "CAR",
     "nationality": "USA",
@@ -1765,7 +1765,7 @@
   {
     "id": "1128",
     "full_name": "ALEX VLASIC",
-    "cardImage": "/images/cards/112807092025110246.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/112807092025110246.jpg",
     "position": "LD",
     "team": "CHI",
     "nationality": "USA",
@@ -1806,7 +1806,7 @@
   {
     "id": "1131",
     "full_name": "CONNOR MURPHY",
-    "cardImage": "/images/cards/113107092025110301.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/113107092025110301.jpg",
     "position": "RD",
     "team": "CHI",
     "nationality": "USA",
@@ -1847,7 +1847,7 @@
   {
     "id": "1136",
     "full_name": "T.J. BRODIE",
-    "cardImage": "/images/cards/113607092025110331.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/113607092025110331.jpg",
     "position": "RD",
     "team": "CHI",
     "nationality": "Canada",
@@ -1888,7 +1888,7 @@
   {
     "id": "1137",
     "full_name": "KEVIN KORCHINSKI",
-    "cardImage": "/images/cards/113707092025110344.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/113707092025110344.jpg",
     "position": "LD",
     "team": "CHI",
     "nationality": "Canada",
@@ -1929,7 +1929,7 @@
   {
     "id": "1140",
     "full_name": "ARTYOM LEVSHUNOV",
-    "cardImage": "/images/cards/114007092025110400.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/114007092025110400.jpg",
     "position": "RD",
     "team": "CHI",
     "nationality": "Belarus",
@@ -1970,7 +1970,7 @@
   {
     "id": "1142",
     "full_name": "LOUIS CREVIER",
-    "cardImage": "/images/cards/114207092025110407.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/114207092025110407.jpg",
     "position": "RD",
     "team": "CHI",
     "nationality": "Canada",
@@ -2011,7 +2011,7 @@
   {
     "id": "1143",
     "full_name": "WYATT KAISER",
-    "cardImage": "/images/cards/114307092025110410.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/114307092025110410.jpg",
     "position": "LD",
     "team": "CHI",
     "nationality": "USA",
@@ -2052,7 +2052,7 @@
   {
     "id": "1146",
     "full_name": "CALE MAKAR",
-    "cardImage": "/images/cards/114607092025110543.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/114607092025110543.jpg",
     "position": "RD",
     "team": "COL",
     "nationality": "Canada",
@@ -2093,7 +2093,7 @@
   {
     "id": "1150",
     "full_name": "DEVON TOEWS",
-    "cardImage": "/images/cards/115007092025110557.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/115007092025110557.jpg",
     "position": "LD",
     "team": "COL",
     "nationality": "Canada",
@@ -2134,7 +2134,7 @@
   {
     "id": "1153",
     "full_name": "SAMUEL GIRARD",
-    "cardImage": "/images/cards/115307092025110611.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/115307092025110611.jpg",
     "position": "LD",
     "team": "COL",
     "nationality": "Canada",
@@ -2175,7 +2175,7 @@
   {
     "id": "1155",
     "full_name": "BRENT BURNS",
-    "cardImage": "/images/cards/115507092025110617.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/115507092025110617.jpg",
     "position": "RD",
     "team": "COL",
     "nationality": "Canada",
@@ -2216,7 +2216,7 @@
   {
     "id": "1158",
     "full_name": "JOSH MANSON",
-    "cardImage": "/images/cards/115807092025110624.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/115807092025110624.jpg",
     "position": "RD",
     "team": "COL",
     "nationality": "Canada",
@@ -2257,7 +2257,7 @@
   {
     "id": "1161",
     "full_name": "SAM MALINSKI",
-    "cardImage": "/images/cards/116107092025110649.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/116107092025110649.jpg",
     "position": "RD",
     "team": "COL",
     "nationality": "USA",
@@ -2298,7 +2298,7 @@
   {
     "id": "1162",
     "full_name": "KEATON MIDDLETON",
-    "cardImage": "/images/cards/116207092025110651.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/116207092025110651.jpg",
     "position": "LD",
     "team": "COL",
     "nationality": "Canada",
@@ -2339,7 +2339,7 @@
   {
     "id": "1165",
     "full_name": "ZACH WERENSKI",
-    "cardImage": "/images/cards/116507092025110828.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/116507092025110828.jpg",
     "position": "LD",
     "team": "CBJ",
     "nationality": "USA",
@@ -2380,7 +2380,7 @@
   {
     "id": "1169",
     "full_name": "DAMON SEVERSON",
-    "cardImage": "/images/cards/116907092025110841.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/116907092025110841.jpg",
     "position": "RD",
     "team": "CBJ",
     "nationality": "Canada",
@@ -2421,7 +2421,7 @@
   {
     "id": "1173",
     "full_name": "DANTE FABBRO",
-    "cardImage": "/images/cards/117307092025110856.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/117307092025110856.jpg",
     "position": "RD",
     "team": "CBJ",
     "nationality": "Canada",
@@ -2462,7 +2462,7 @@
   {
     "id": "1174",
     "full_name": "IVAN PROVOROV",
-    "cardImage": "/images/cards/117407092025110858.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/117407092025110858.jpg",
     "position": "LD",
     "team": "CBJ",
     "nationality": "Russia",
@@ -2503,7 +2503,7 @@
   {
     "id": "1177",
     "full_name": "DENTON MATEYCHUK",
-    "cardImage": "/images/cards/117707092025110909.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/117707092025110909.jpg",
     "position": "LD",
     "team": "CBJ",
     "nationality": "Canada",
@@ -2544,7 +2544,7 @@
   {
     "id": "1180",
     "full_name": "ERIK GUDBRANSON",
-    "cardImage": "/images/cards/118007092025110917.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/118007092025110917.jpg",
     "position": "RD",
     "team": "CBJ",
     "nationality": "Canada",
@@ -2585,7 +2585,7 @@
   {
     "id": "1183",
     "full_name": "JAKE CHRISTIANSEN",
-    "cardImage": "/images/cards/118307092025110924.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/118307092025110924.jpg",
     "position": "LD",
     "team": "CBJ",
     "nationality": "Canada",
@@ -2626,7 +2626,7 @@
   {
     "id": "1184",
     "full_name": "CHRISTIAN JAROS",
-    "cardImage": "/images/cards/118407092025110927.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/118407092025110927.jpg",
     "position": "RD",
     "team": "CBJ",
     "nationality": "Slovakia",
@@ -2667,7 +2667,7 @@
   {
     "id": "1189",
     "full_name": "MIRO HEISKANEN",
-    "cardImage": "/images/cards/118907092025111650.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/118907092025111650.jpg",
     "position": "LD",
     "team": "DAL",
     "nationality": "Finland",
@@ -2708,7 +2708,7 @@
   {
     "id": "1190",
     "full_name": "THOMAS HARLEY",
-    "cardImage": "/images/cards/119007092025111652.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/119007092025111652.jpg",
     "position": "LD",
     "team": "DAL",
     "nationality": "Canada",
@@ -2749,7 +2749,7 @@
   {
     "id": "1193",
     "full_name": "ESA LINDELL",
-    "cardImage": "/images/cards/119307092025111714.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/119307092025111714.jpg",
     "position": "LD",
     "team": "DAL",
     "nationality": "Finland",
@@ -2790,7 +2790,7 @@
   {
     "id": "1195",
     "full_name": "ILYA LYUBUSHKIN",
-    "cardImage": "/images/cards/119507092025111723.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/119507092025111723.jpg",
     "position": "RD",
     "team": "DAL",
     "nationality": "Russia",
@@ -2831,7 +2831,7 @@
   {
     "id": "1199",
     "full_name": "LIAN BICHSEL",
-    "cardImage": "/images/cards/119907092025111743.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/119907092025111743.jpg",
     "position": "LD",
     "team": "DAL",
     "nationality": "Switzerland",
@@ -2872,7 +2872,7 @@
   {
     "id": "1201",
     "full_name": "NILS LUNDKVIST",
-    "cardImage": "/images/cards/120107092025111755.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/120107092025111755.jpg",
     "position": "RD",
     "team": "DAL",
     "nationality": "Sweden",
@@ -2913,7 +2913,7 @@
   {
     "id": "1202",
     "full_name": "VLADISLAV KOLYACHONOK",
-    "cardImage": "/images/cards/120207092025111801.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/120207092025111801.jpg",
     "position": "LD",
     "team": "DAL",
     "nationality": "Belarus",
@@ -2954,7 +2954,7 @@
   {
     "id": "1208",
     "full_name": "MORITZ SEIDER",
-    "cardImage": "/images/cards/120807092025112005.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/120807092025112005.jpg",
     "position": "RD",
     "team": "DET",
     "nationality": "Germany",
@@ -2995,7 +2995,7 @@
   {
     "id": "1209",
     "full_name": "SIMON EDVINSSON",
-    "cardImage": "/images/cards/120907092025112014.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/120907092025112014.jpg",
     "position": "LD",
     "team": "DET",
     "nationality": "Sweden",
@@ -3036,7 +3036,7 @@
   {
     "id": "1214",
     "full_name": "ERIK GUSTAFSSON",
-    "cardImage": "/images/cards/121407092025112028.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/121407092025112028.jpg",
     "position": "LD",
     "team": "DET",
     "nationality": "Sweden",
@@ -3077,7 +3077,7 @@
   {
     "id": "1217",
     "full_name": "BEN CHIAROT",
-    "cardImage": "/images/cards/121707092025112035.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/121707092025112035.jpg",
     "position": "LD",
     "team": "DET",
     "nationality": "Canada",
@@ -3118,7 +3118,7 @@
   {
     "id": "1218",
     "full_name": "JACOB BERNARD-DOCKER",
-    "cardImage": "/images/cards/121807092025112036.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/121807092025112036.jpg",
     "position": "RD",
     "team": "DET",
     "nationality": "Canada",
@@ -3159,7 +3159,7 @@
   {
     "id": "1221",
     "full_name": "JUSTIN HOLL",
-    "cardImage": "/images/cards/122107092025112043.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/122107092025112043.jpg",
     "position": "RD",
     "team": "DET",
     "nationality": "USA",
@@ -3200,7 +3200,7 @@
   {
     "id": "1222",
     "full_name": "ALBERT JOHANSSON",
-    "cardImage": "/images/cards/122207092025112044.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/122207092025112044.jpg",
     "position": "LD",
     "team": "DET",
     "nationality": "Sweden",
@@ -3241,7 +3241,7 @@
   {
     "id": "1223",
     "full_name": "WILLIAM LAGESSON",
-    "cardImage": "/images/cards/122307092025112046.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/122307092025112046.jpg",
     "position": "LD",
     "team": "DET",
     "nationality": "Sweden",
@@ -3282,7 +3282,7 @@
   {
     "id": "1224",
     "full_name": "IAN MITCHELL",
-    "cardImage": "/images/cards/122407092025112048.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/122407092025112048.jpg",
     "position": "RD",
     "team": "DET",
     "nationality": "Canada",
@@ -3323,7 +3323,7 @@
   {
     "id": "1229",
     "full_name": "EVAN BOUCHARD",
-    "cardImage": "/images/cards/122907092025112435.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/122907092025112435.jpg",
     "position": "RD",
     "team": "EDM",
     "nationality": "Canada",
@@ -3364,7 +3364,7 @@
   {
     "id": "1231",
     "full_name": "MATTIAS EKHOLM",
-    "cardImage": "/images/cards/123107092025112442.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/123107092025112442.jpg",
     "position": "LD",
     "team": "EDM",
     "nationality": "Sweden",
@@ -3405,7 +3405,7 @@
   {
     "id": "1232",
     "full_name": "DARNELL NURSE",
-    "cardImage": "/images/cards/123207092025112445.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/123207092025112445.jpg",
     "position": "LD",
     "team": "EDM",
     "nationality": "Canada",
@@ -3446,7 +3446,7 @@
   {
     "id": "1233",
     "full_name": "JAKE WALMAN",
-    "cardImage": "/images/cards/123307092025112448.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/123307092025112448.jpg",
     "position": "LD",
     "team": "EDM",
     "nationality": "Canada",
@@ -3487,7 +3487,7 @@
   {
     "id": "1236",
     "full_name": "BRETT KULAK",
-    "cardImage": "/images/cards/123607092025112458.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/123607092025112458.jpg",
     "position": "LD",
     "team": "EDM",
     "nationality": "Canada",
@@ -3528,7 +3528,7 @@
   {
     "id": "1240",
     "full_name": "TROY STECHER",
-    "cardImage": "/images/cards/124007092025112506.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/124007092025112506.jpg",
     "position": "RD",
     "team": "EDM",
     "nationality": "Canada",
@@ -3569,7 +3569,7 @@
   {
     "id": "1244",
     "full_name": "JOSH BROWN",
-    "cardImage": "/images/cards/124407092025112515.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/124407092025112515.jpg",
     "position": "RD",
     "team": "EDM",
     "nationality": "Canada",
@@ -3610,7 +3610,7 @@
   {
     "id": "1245",
     "full_name": "TY EMBERSON",
-    "cardImage": "/images/cards/124507092025112517.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/124507092025112517.jpg",
     "position": "RD",
     "team": "EDM",
     "nationality": "USA",
@@ -3651,7 +3651,7 @@
   {
     "id": "1246",
     "full_name": "ALEC REGULA",
-    "cardImage": "/images/cards/124607092025112519.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/124607092025112519.jpg",
     "position": "RD",
     "team": "EDM",
     "nationality": "USA",
@@ -3692,7 +3692,7 @@
   {
     "id": "1251",
     "full_name": "SETH JONES",
-    "cardImage": "/images/cards/125107092025112803.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/125107092025112803.jpg",
     "position": "RD",
     "team": "FLA",
     "nationality": "USA",
@@ -3733,7 +3733,7 @@
   {
     "id": "1252",
     "full_name": "GUSTAV FORSLING",
-    "cardImage": "/images/cards/125207092025112805.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/125207092025112805.jpg",
     "position": "LD",
     "team": "FLA",
     "nationality": "Sweden",
@@ -3774,7 +3774,7 @@
   {
     "id": "1255",
     "full_name": "AARON EKBLAD",
-    "cardImage": "/images/cards/125507092025112812.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/125507092025112812.jpg",
     "position": "RD",
     "team": "FLA",
     "nationality": "Canada",
@@ -3815,7 +3815,7 @@
   {
     "id": "1260",
     "full_name": "NIKO MIKKOLA",
-    "cardImage": "/images/cards/126007092025112822.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/126007092025112822.jpg",
     "position": "LD",
     "team": "FLA",
     "nationality": "Finland",
@@ -3856,7 +3856,7 @@
   {
     "id": "1261",
     "full_name": "UVIS BALINSKIS",
-    "cardImage": "/images/cards/126107092025112824.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/126107092025112824.jpg",
     "position": "LD",
     "team": "FLA",
     "nationality": "Latvia",
@@ -3897,7 +3897,7 @@
   {
     "id": "1262",
     "full_name": "DMITRY KULIKOV",
-    "cardImage": "/images/cards/126207092025112826.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/126207092025112826.jpg",
     "position": "LD",
     "team": "FLA",
     "nationality": "Russia",
@@ -3938,7 +3938,7 @@
   {
     "id": "1263",
     "full_name": "JEFF PETRY",
-    "cardImage": "/images/cards/126307092025112828.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/126307092025112828.jpg",
     "position": "RD",
     "team": "FLA",
     "nationality": "USA",
@@ -3979,7 +3979,7 @@
   {
     "id": "1274",
     "full_name": "DREW DOUGHTY",
-    "cardImage": "/images/cards/127407092025113027.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/127407092025113027.jpg",
     "position": "RD",
     "team": "LAK",
     "nationality": "Canada",
@@ -4020,7 +4020,7 @@
   {
     "id": "1280",
     "full_name": "BRANDT CLARKE",
-    "cardImage": "/images/cards/128007092025113103.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/128007092025113103.jpg",
     "position": "RD",
     "team": "LAK",
     "nationality": "Canada",
@@ -4061,7 +4061,7 @@
   {
     "id": "1281",
     "full_name": "MIKEY ANDERSON",
-    "cardImage": "/images/cards/128107092025113110.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/128107092025113110.jpg",
     "position": "LD",
     "team": "LAK",
     "nationality": "USA",
@@ -4102,7 +4102,7 @@
   {
     "id": "1282",
     "full_name": "JOEL EDMUNDSON",
-    "cardImage": "/images/cards/128207092025113113.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/128207092025113113.jpg",
     "position": "LD",
     "team": "LAK",
     "nationality": "Canada",
@@ -4143,7 +4143,7 @@
   {
     "id": "1285",
     "full_name": "CODY CECI",
-    "cardImage": "/images/cards/128507092025113132.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/128507092025113132.jpg",
     "position": "RD",
     "team": "LAK",
     "nationality": "Canada",
@@ -4184,7 +4184,7 @@
   {
     "id": "1288",
     "full_name": "BRIAN DUMOULIN",
-    "cardImage": "/images/cards/128807092025113146.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/128807092025113146.jpg",
     "position": "LD",
     "team": "LAK",
     "nationality": "USA",
@@ -4225,7 +4225,7 @@
   {
     "id": "1290",
     "full_name": "JACOB MOVERARE",
-    "cardImage": "/images/cards/129007092025113154.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/129007092025113154.jpg",
     "position": "LD",
     "team": "LAK",
     "nationality": "Sweden",
@@ -4266,7 +4266,7 @@
   {
     "id": "1291",
     "full_name": "KYLE BURROUGHS",
-    "cardImage": "/images/cards/129107092025113158.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/129107092025113158.jpg",
     "position": "RD",
     "team": "LAK",
     "nationality": "Canada",
@@ -4307,7 +4307,7 @@
   {
     "id": "1296",
     "full_name": "BROCK FABER",
-    "cardImage": "/images/cards/129607092025113300.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/129607092025113300.jpg",
     "position": "RD",
     "team": "MIN",
     "nationality": "USA",
@@ -4348,7 +4348,7 @@
   {
     "id": "1297",
     "full_name": "JONAS BRODIN",
-    "cardImage": "/images/cards/129707092025113303.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/129707092025113303.jpg",
     "position": "LD",
     "team": "MIN",
     "nationality": "Sweden",
@@ -4389,7 +4389,7 @@
   {
     "id": "1303",
     "full_name": "JARED SPURGEON",
-    "cardImage": "/images/cards/130307092025113337.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/130307092025113337.jpg",
     "position": "RD",
     "team": "MIN",
     "nationality": "Canada",
@@ -4430,7 +4430,7 @@
   {
     "id": "1305",
     "full_name": "JACOB MIDDLETON",
-    "cardImage": "/images/cards/130507092025113430.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/130507092025113430.jpg",
     "position": "LD",
     "team": "MIN",
     "nationality": "Canada",
@@ -4471,7 +4471,7 @@
   {
     "id": "1308",
     "full_name": "ZACH BOGOSIAN",
-    "cardImage": "/images/cards/130807092025113444.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/130807092025113444.jpg",
     "position": "RD",
     "team": "MIN",
     "nationality": "USA",
@@ -4512,7 +4512,7 @@
   {
     "id": "1326",
     "full_name": "NOAH DOBSON",
-    "cardImage": "/images/cards/132607092025114120.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/132607092025114120.jpg",
     "position": "RD",
     "team": "MTL",
     "nationality": "Canada",
@@ -4553,7 +4553,7 @@
   {
     "id": "1328",
     "full_name": "LANE HUTSON",
-    "cardImage": "/images/cards/132807092025114126.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/132807092025114126.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "USA",
@@ -4594,7 +4594,7 @@
   {
     "id": "1331",
     "full_name": "MICHAEL MATHESON",
-    "cardImage": "/images/cards/133107092025114137.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/133107092025114137.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "Canada",
@@ -4635,7 +4635,7 @@
   {
     "id": "1332",
     "full_name": "KAIDEN GUHLE",
-    "cardImage": "/images/cards/133207092025114140.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/133207092025114140.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "Canada",
@@ -4676,7 +4676,7 @@
   {
     "id": "1339",
     "full_name": "ALEXANDRE CARRIER",
-    "cardImage": "/images/cards/133907092025114157.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/133907092025114157.jpg",
     "position": "RD",
     "team": "MTL",
     "nationality": "Canada",
@@ -4717,7 +4717,7 @@
   {
     "id": "1340",
     "full_name": "ARBER XHEKAJ",
-    "cardImage": "/images/cards/134007092025114202.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/134007092025114202.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "Canada",
@@ -4758,7 +4758,7 @@
   {
     "id": "1343",
     "full_name": "MARC DEL GAIZO",
-    "cardImage": "/images/cards/134307092025114207.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/134307092025114207.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "USA",
@@ -4799,7 +4799,7 @@
   {
     "id": "1345",
     "full_name": "JAYDEN STRUBLE",
-    "cardImage": "/images/cards/134507092025114212.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/134507092025114212.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "USA",
@@ -4840,7 +4840,7 @@
   {
     "id": "1346",
     "full_name": "ROMAN JOSI",
-    "cardImage": "/images/cards/134607092025114240.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/134607092025114240.jpg",
     "position": "LD",
     "team": "NSH",
     "nationality": "Switzerland",
@@ -4881,7 +4881,7 @@
   {
     "id": "1352",
     "full_name": "NICK BLANKENBURG",
-    "cardImage": "/images/cards/135207092025114259.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/135207092025114259.jpg",
     "position": "RD",
     "team": "NSH",
     "nationality": "USA",
@@ -4922,7 +4922,7 @@
   {
     "id": "1357",
     "full_name": "JUSTIN BARRON",
-    "cardImage": "/images/cards/135707092025114309.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/135707092025114309.jpg",
     "position": "RD",
     "team": "NSH",
     "nationality": "Canada",
@@ -4963,7 +4963,7 @@
   {
     "id": "1358",
     "full_name": "NICOLAS HAGUE",
-    "cardImage": "/images/cards/135807092025114311.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/135807092025114311.jpg",
     "position": "LD",
     "team": "NSH",
     "nationality": "Canada",
@@ -5004,7 +5004,7 @@
   {
     "id": "1359",
     "full_name": "ANDREAS ENGLUND",
-    "cardImage": "/images/cards/135907092025114313.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/135907092025114313.jpg",
     "position": "LD",
     "team": "NSH",
     "nationality": "Sweden",
@@ -5045,7 +5045,7 @@
   {
     "id": "1361",
     "full_name": "NICK PERBIX",
-    "cardImage": "/images/cards/136107092025114319.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/136107092025114319.jpg",
     "position": "RD",
     "team": "NSH",
     "nationality": "USA",
@@ -5086,7 +5086,7 @@
   {
     "id": "1362",
     "full_name": "JORDAN OESTERLE",
-    "cardImage": "/images/cards/136207092025114329.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/136207092025114329.jpg",
     "position": "LD",
     "team": "NSH",
     "nationality": "USA",
@@ -5127,7 +5127,7 @@
   {
     "id": "1364",
     "full_name": "ADAM WILSBY",
-    "cardImage": "/images/cards/136407092025114338.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/136407092025114338.jpg",
     "position": "LD",
     "team": "NSH",
     "nationality": "Sweden",
@@ -5168,7 +5168,7 @@
   {
     "id": "1368",
     "full_name": "DOUGIE HAMILTON",
-    "cardImage": "/images/cards/136807092025114556.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/136807092025114556.jpg",
     "position": "RD",
     "team": "NJD",
     "nationality": "Canada",
@@ -5209,7 +5209,7 @@
   {
     "id": "1369",
     "full_name": "LUKE HUGHES",
-    "cardImage": "/images/cards/136907092025114559.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/136907092025114559.jpg",
     "position": "LD",
     "team": "NJD",
     "nationality": "USA",
@@ -5250,7 +5250,7 @@
   {
     "id": "1375",
     "full_name": "BRETT PESCE",
-    "cardImage": "/images/cards/137507092025114621.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/137507092025114621.jpg",
     "position": "RD",
     "team": "NJD",
     "nationality": "USA",
@@ -5291,7 +5291,7 @@
   {
     "id": "1377",
     "full_name": "SIMON NEMEC",
-    "cardImage": "/images/cards/137707092025114627.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/137707092025114627.jpg",
     "position": "RD",
     "team": "NJD",
     "nationality": "Slovakia",
@@ -5332,7 +5332,7 @@
   {
     "id": "1379",
     "full_name": "BRENDEN DILLON",
-    "cardImage": "/images/cards/137907092025114632.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/137907092025114632.jpg",
     "position": "LD",
     "team": "NJD",
     "nationality": "Canada",
@@ -5373,7 +5373,7 @@
   {
     "id": "1381",
     "full_name": "SEAMUS CASEY",
-    "cardImage": "/images/cards/138107092025114636.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/138107092025114636.jpg",
     "position": "RD",
     "team": "NJD",
     "nationality": "USA",
@@ -5414,7 +5414,7 @@
   {
     "id": "1382",
     "full_name": "DENNIS CHOLOWSKI",
-    "cardImage": "/images/cards/138207092025114638.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/138207092025114638.jpg",
     "position": "LD",
     "team": "NJD",
     "nationality": "Canada",
@@ -5455,7 +5455,7 @@
   {
     "id": "1383",
     "full_name": "JOHNATHAN KOVACEVIC",
-    "cardImage": "/images/cards/138307092025114640.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/138307092025114640.jpg",
     "position": "RD",
     "team": "NJD",
     "nationality": "Canada",
@@ -5496,7 +5496,7 @@
   {
     "id": "1385",
     "full_name": "JONAS SIEGENTHALER",
-    "cardImage": "/images/cards/138507092025114733.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/138507092025114733.jpg",
     "position": "LD",
     "team": "NJD",
     "nationality": "Switzerland",
@@ -5537,7 +5537,7 @@
   {
     "id": "1386",
     "full_name": "BRADY SKJEI",
-    "cardImage": "/images/cards/138607092025114739.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/138607092025114739.jpg",
     "position": "LD",
     "team": "NSH",
     "nationality": "USA",
@@ -5578,7 +5578,7 @@
   {
     "id": "1393",
     "full_name": "RYAN PULOCK",
-    "cardImage": "/images/cards/139308092025113007.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/139308092025113007.jpg",
     "position": "RD",
     "team": "NYI",
     "nationality": "Canada",
@@ -5619,7 +5619,7 @@
   {
     "id": "1395",
     "full_name": "ADAM PELECH",
-    "cardImage": "/images/cards/139508092025113013.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/139508092025113013.jpg",
     "position": "LD",
     "team": "NYI",
     "nationality": "Canada",
@@ -5660,7 +5660,7 @@
   {
     "id": "1400",
     "full_name": "ADAM BOQVIST",
-    "cardImage": "/images/cards/140008092025113049.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/140008092025113049.jpg",
     "position": "RD",
     "team": "NYI",
     "nationality": "Sweden",
@@ -5701,7 +5701,7 @@
   {
     "id": "1402",
     "full_name": "ALEXANDER ROMANOV",
-    "cardImage": "/images/cards/140208092025113110.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/140208092025113110.jpg",
     "position": "LD",
     "team": "NYI",
     "nationality": "Russia",
@@ -5742,7 +5742,7 @@
   {
     "id": "1403",
     "full_name": "TONY DEANGELO",
-    "cardImage": "/images/cards/140308092025113115.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/140308092025113115.jpg",
     "position": "RD",
     "team": "NYI",
     "nationality": "USA",
@@ -5783,7 +5783,7 @@
   {
     "id": "1405",
     "full_name": "SCOTT MAYFIELD",
-    "cardImage": "/images/cards/140508092025113122.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/140508092025113122.jpg",
     "position": "RD",
     "team": "NYI",
     "nationality": "USA",
@@ -5824,7 +5824,7 @@
   {
     "id": "1410",
     "full_name": "ADAM FOX",
-    "cardImage": "/images/cards/141008092025113417.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/141008092025113417.jpg",
     "position": "RD",
     "team": "NYR",
     "nationality": "USA",
@@ -5865,7 +5865,7 @@
   {
     "id": "1415",
     "full_name": "VLADISLAV GAVRIKOV",
-    "cardImage": "/images/cards/141508092025113436.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/141508092025113436.jpg",
     "position": "LD",
     "team": "NYR",
     "nationality": "Russia",
@@ -5906,7 +5906,7 @@
   {
     "id": "1416",
     "full_name": "BRADEN SCHNEIDER",
-    "cardImage": "/images/cards/141608092025113438.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/141608092025113438.jpg",
     "position": "RD",
     "team": "NYR",
     "nationality": "Canada",
@@ -5947,7 +5947,7 @@
   {
     "id": "1421",
     "full_name": "CARSON SOUCY",
-    "cardImage": "/images/cards/142108092025113735.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/142108092025113735.jpg",
     "position": "LD",
     "team": "NYR",
     "nationality": "Canada",
@@ -5988,7 +5988,7 @@
   {
     "id": "1423",
     "full_name": "URHO VAAKANAINEN",
-    "cardImage": "/images/cards/142308092025113744.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/142308092025113744.jpg",
     "position": "LD",
     "team": "NYR",
     "nationality": "Finland",
@@ -6029,7 +6029,7 @@
   {
     "id": "1424",
     "full_name": "WILL BORGEN",
-    "cardImage": "/images/cards/142408092025113747.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/142408092025113747.jpg",
     "position": "RD",
     "team": "NYR",
     "nationality": "USA",
@@ -6070,7 +6070,7 @@
   {
     "id": "1429",
     "full_name": "JAKE SANDERSON",
-    "cardImage": "/images/cards/142908092025114822.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/142908092025114822.jpg",
     "position": "LD",
     "team": "OTT",
     "nationality": "USA",
@@ -6111,7 +6111,7 @@
   {
     "id": "1433",
     "full_name": "THOMAS CHABOT",
-    "cardImage": "/images/cards/143308092025114832.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/143308092025114832.jpg",
     "position": "LD",
     "team": "OTT",
     "nationality": "Canada",
@@ -6152,7 +6152,7 @@
   {
     "id": "1439",
     "full_name": "NICK JENSEN",
-    "cardImage": "/images/cards/143908092025114849.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/143908092025114849.jpg",
     "position": "RD",
     "team": "OTT",
     "nationality": "USA",
@@ -6193,7 +6193,7 @@
   {
     "id": "1442",
     "full_name": "JORDAN SPENCE",
-    "cardImage": "/images/cards/144208092025114856.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/144208092025114856.jpg",
     "position": "RD",
     "team": "OTT",
     "nationality": "Canada",
@@ -6234,7 +6234,7 @@
   {
     "id": "1445",
     "full_name": "ARTEM ZUB",
-    "cardImage": "/images/cards/144508092025114903.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/144508092025114903.jpg",
     "position": "RD",
     "team": "OTT",
     "nationality": "Russia",
@@ -6275,7 +6275,7 @@
   {
     "id": "1446",
     "full_name": "NIKOLAS MATINPALO",
-    "cardImage": "/images/cards/144608092025114906.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/144608092025114906.jpg",
     "position": "RD",
     "team": "OTT",
     "nationality": "Finland",
@@ -6316,7 +6316,7 @@
   {
     "id": "1449",
     "full_name": "TYLER KLEVEN",
-    "cardImage": "/images/cards/144908092025114915.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/144908092025114915.jpg",
     "position": "LD",
     "team": "OTT",
     "nationality": "USA",
@@ -6357,7 +6357,7 @@
   {
     "id": "1452",
     "full_name": "TRAVIS SANHEIM",
-    "cardImage": "/images/cards/145208092025120339.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/145208092025120339.jpg",
     "position": "LD",
     "team": "PHI",
     "nationality": "Canada",
@@ -6398,7 +6398,7 @@
   {
     "id": "1457",
     "full_name": "JAMIE DRYSDALE",
-    "cardImage": "/images/cards/145708092025120705.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/145708092025120705.jpg",
     "position": "RD",
     "team": "PHI",
     "nationality": "Canada",
@@ -6439,7 +6439,7 @@
   {
     "id": "1461",
     "full_name": "CAM YORK",
-    "cardImage": "/images/cards/146108092025120724.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/146108092025120724.jpg",
     "position": "LD",
     "team": "PHI",
     "nationality": "USA",
@@ -6480,7 +6480,7 @@
   {
     "id": "1462",
     "full_name": "RYAN ELLIS",
-    "cardImage": "/images/cards/146208092025031229.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/146208092025031229.jpg",
     "position": "RD",
     "team": "PHI",
     "nationality": "Canada",
@@ -6521,7 +6521,7 @@
   {
     "id": "1463",
     "full_name": "DENNIS GILBERT",
-    "cardImage": "/images/cards/146308092025031254.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/146308092025031254.jpg",
     "position": "LD",
     "team": "PHI",
     "nationality": "USA",
@@ -6562,7 +6562,7 @@
   {
     "id": "1464",
     "full_name": "NOAH JUULSEN",
-    "cardImage": "/images/cards/146408092025031257.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/146408092025031257.jpg",
     "position": "RD",
     "team": "PHI",
     "nationality": "Canada",
@@ -6603,7 +6603,7 @@
   {
     "id": "1466",
     "full_name": "ERIK KARLSSON",
-    "cardImage": "/images/cards/146608092025031327.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/146608092025031327.jpg",
     "position": "RD",
     "team": "PIT",
     "nationality": "Sweden",
@@ -6644,7 +6644,7 @@
   {
     "id": "1470",
     "full_name": "KRIS LETANG",
-    "cardImage": "/images/cards/147008092025031341.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/147008092025031341.jpg",
     "position": "RD",
     "team": "PIT",
     "nationality": "Canada",
@@ -6685,7 +6685,7 @@
   {
     "id": "1472",
     "full_name": "RASMUS RISTOLAINEN",
-    "cardImage": "/images/cards/147208092025033721.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/147208092025033721.jpg",
     "position": "RD",
     "team": "PHI",
     "nationality": "Finland",
@@ -6726,7 +6726,7 @@
   {
     "id": "1473",
     "full_name": "YEGOR ZAMULA",
-    "cardImage": "/images/cards/147308092025033724.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/147308092025033724.jpg",
     "position": "LD",
     "team": "PHI",
     "nationality": "Russia",
@@ -6767,7 +6767,7 @@
   {
     "id": "1474",
     "full_name": "EMIL ANDRAE",
-    "cardImage": "/images/cards/147408092025033728.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/147408092025033728.jpg",
     "position": "LD",
     "team": "PHI",
     "nationality": "Sweden",
@@ -6808,7 +6808,7 @@
   {
     "id": "1476",
     "full_name": "RYAN SHEA",
-    "cardImage": "/images/cards/147608092025033757.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/147608092025033757.jpg",
     "position": "LD",
     "team": "PIT",
     "nationality": "USA",
@@ -6849,7 +6849,7 @@
   {
     "id": "1477",
     "full_name": "PARKER WOTHERSPOON",
-    "cardImage": "/images/cards/147708092025033800.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/147708092025033800.jpg",
     "position": "LD",
     "team": "PIT",
     "nationality": "Canada",
@@ -6890,7 +6890,7 @@
   {
     "id": "1481",
     "full_name": "RYAN GRAVES",
-    "cardImage": "/images/cards/148108092025033813.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/148108092025033813.jpg",
     "position": "LD",
     "team": "PIT",
     "nationality": "Canada",
@@ -6931,7 +6931,7 @@
   {
     "id": "1487",
     "full_name": "CONNOR CLIFTON",
-    "cardImage": "/images/cards/148708092025033839.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/148708092025033839.jpg",
     "position": "RD",
     "team": "PIT",
     "nationality": "USA",
@@ -6972,7 +6972,7 @@
   {
     "id": "1488",
     "full_name": "MATT DUMBA",
-    "cardImage": "/images/cards/148808092025033842.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/148808092025033842.jpg",
     "position": "RD",
     "team": "PIT",
     "nationality": "Canada",
@@ -7013,7 +7013,7 @@
   {
     "id": "1493",
     "full_name": "NICK SEELER",
-    "cardImage": "/images/cards/149308092025063415.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/149308092025063415.jpg",
     "position": "LD",
     "team": "PHI",
     "nationality": "USA",
@@ -7054,7 +7054,7 @@
   {
     "id": "1498",
     "full_name": "MARIO FERRARO",
-    "cardImage": "/images/cards/149808092025063444.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/149808092025063444.jpg",
     "position": "LD",
     "team": "SJS",
     "nationality": "Canada",
@@ -7095,7 +7095,7 @@
   {
     "id": "1499",
     "full_name": "TIMOTHY LILJEGREN",
-    "cardImage": "/images/cards/149908092025063449.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/149908092025063449.jpg",
     "position": "RD",
     "team": "SJS",
     "nationality": "Sweden",
@@ -7136,7 +7136,7 @@
   {
     "id": "1502",
     "full_name": "DMITRY ORLOV",
-    "cardImage": "/images/cards/150208092025063457.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/150208092025063457.jpg",
     "position": "LD",
     "team": "SJS",
     "nationality": "Russia",
@@ -7177,7 +7177,7 @@
   {
     "id": "1503",
     "full_name": "LUCAS CARLSSON",
-    "cardImage": "/images/cards/150308092025063501.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/150308092025063501.jpg",
     "position": "LD",
     "team": "SJS",
     "nationality": "Sweden",
@@ -7218,7 +7218,7 @@
   {
     "id": "1507",
     "full_name": "VINCENT DESHARNAIS",
-    "cardImage": "/images/cards/150708092025063529.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/150708092025063529.jpg",
     "position": "RD",
     "team": "SJS",
     "nationality": "Canada",
@@ -7259,7 +7259,7 @@
   {
     "id": "1509",
     "full_name": "NICK LEDDY",
-    "cardImage": "/images/cards/150908092025063555.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/150908092025063555.jpg",
     "position": "LD",
     "team": "SJS",
     "nationality": "USA",
@@ -7300,7 +7300,7 @@
   {
     "id": "1510",
     "full_name": "SHAKIR MUKHAMADULLIN",
-    "cardImage": "/images/cards/151008092025063603.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/151008092025063603.jpg",
     "position": "LD",
     "team": "SJS",
     "nationality": "Russia",
@@ -7341,7 +7341,7 @@
   {
     "id": "1511",
     "full_name": "LUCA CAGNONI",
-    "cardImage": "/images/cards/151108092025063607.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/151108092025063607.jpg",
     "position": "LD",
     "team": "SJS",
     "nationality": "Canada",
@@ -7382,7 +7382,7 @@
   {
     "id": "1514",
     "full_name": "JOHN KLINGBERG",
-    "cardImage": "/images/cards/151408092025063621.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/151408092025063621.jpg",
     "position": "RD",
     "team": "SJS",
     "nationality": "Sweden",
@@ -7423,7 +7423,7 @@
   {
     "id": "1517",
     "full_name": "BRANDON MONTOUR",
-    "cardImage": "/images/cards/151708092025063643.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/151708092025063643.jpg",
     "position": "RD",
     "team": "SEA",
     "nationality": "Canada",
@@ -7464,7 +7464,7 @@
   {
     "id": "1518",
     "full_name": "VINCE DUNN",
-    "cardImage": "/images/cards/151808092025063647.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/151808092025063647.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "Canada",
@@ -7505,7 +7505,7 @@
   {
     "id": "1528",
     "full_name": "ADAM LARSSON",
-    "cardImage": "/images/cards/152808092025063742.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/152808092025063742.jpg",
     "position": "RD",
     "team": "SEA",
     "nationality": "Sweden",
@@ -7546,7 +7546,7 @@
   {
     "id": "1529",
     "full_name": "JAMIE OLEKSIAK",
-    "cardImage": "/images/cards/152908092025063749.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/152908092025063749.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "Canada",
@@ -7587,7 +7587,7 @@
   {
     "id": "1530",
     "full_name": "RYKER EVANS",
-    "cardImage": "/images/cards/153008092025063751.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/153008092025063751.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "Canada",
@@ -7628,7 +7628,7 @@
   {
     "id": "1532",
     "full_name": "RYAN LINDGREN",
-    "cardImage": "/images/cards/153208092025063756.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/153208092025063756.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "USA",
@@ -7669,7 +7669,7 @@
   {
     "id": "1533",
     "full_name": "JOSH MAHURA",
-    "cardImage": "/images/cards/153308092025063800.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/153308092025063800.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "Canada",
@@ -7710,7 +7710,7 @@
   {
     "id": "1538",
     "full_name": "COLTON PARAYKO",
-    "cardImage": "/images/cards/153808092025063859.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/153808092025063859.jpg",
     "position": "RD",
     "team": "STL",
     "nationality": "Canada",
@@ -7751,7 +7751,7 @@
   {
     "id": "1541",
     "full_name": "CAM FOWLER",
-    "cardImage": "/images/cards/154108092025063911.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/154108092025063911.jpg",
     "position": "LD",
     "team": "STL",
     "nationality": "USA",
@@ -7792,7 +7792,7 @@
   {
     "id": "1542",
     "full_name": "PHILIP BROBERG",
-    "cardImage": "/images/cards/154208092025063914.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/154208092025063914.jpg",
     "position": "LD",
     "team": "STL",
     "nationality": "Sweden",
@@ -7833,7 +7833,7 @@
   {
     "id": "1543",
     "full_name": "JUSTIN FAULK",
-    "cardImage": "/images/cards/154308092025063916.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/154308092025063916.jpg",
     "position": "RD",
     "team": "STL",
     "nationality": "USA",
@@ -7874,7 +7874,7 @@
   {
     "id": "1544",
     "full_name": "TOREY KRUG",
-    "cardImage": "/images/cards/154408092025063919.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/154408092025063919.jpg",
     "position": "LD",
     "team": "STL",
     "nationality": "USA",
@@ -7915,7 +7915,7 @@
   {
     "id": "1549",
     "full_name": "LOGAN MAILLOUX",
-    "cardImage": "/images/cards/154908092025064009.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/154908092025064009.jpg",
     "position": "RD",
     "team": "STL",
     "nationality": "Canada",
@@ -7956,7 +7956,7 @@
   {
     "id": "1554",
     "full_name": "MATT KESSEL",
-    "cardImage": "/images/cards/155408092025064031.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/155408092025064031.jpg",
     "position": "RD",
     "team": "STL",
     "nationality": "USA",
@@ -7997,7 +7997,7 @@
   {
     "id": "1557",
     "full_name": "TYLER TUCKER",
-    "cardImage": "/images/cards/155708092025064046.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/155708092025064046.jpg",
     "position": "LD",
     "team": "STL",
     "nationality": "Canada",
@@ -8038,7 +8038,7 @@
   {
     "id": "1559",
     "full_name": "VICTOR HEDMAN",
-    "cardImage": "/images/cards/155908092025064116.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/155908092025064116.jpg",
     "position": "LD",
     "team": "TBL",
     "nationality": "Sweden",
@@ -8079,7 +8079,7 @@
   {
     "id": "1564",
     "full_name": "DARREN RADDYSH",
-    "cardImage": "/images/cards/156408092025064431.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/156408092025064431.jpg",
     "position": "RD",
     "team": "TBL",
     "nationality": "Canada",
@@ -8120,7 +8120,7 @@
   {
     "id": "1565",
     "full_name": "ERIK CERNAK",
-    "cardImage": "/images/cards/156508092025064433.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/156508092025064433.jpg",
     "position": "RD",
     "team": "TBL",
     "nationality": "Slovakia",
@@ -8161,7 +8161,7 @@
   {
     "id": "1567",
     "full_name": "J.J. MOSER",
-    "cardImage": "/images/cards/156708092025064441.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/156708092025064441.jpg",
     "position": "LD",
     "team": "TBL",
     "nationality": "Switzerland",
@@ -8202,7 +8202,7 @@
   {
     "id": "1571",
     "full_name": "EMIL MARTINSEN LILLEBERG",
-    "cardImage": "/images/cards/157108092025064520.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/157108092025064520.jpg",
     "position": "LD",
     "team": "TBL",
     "nationality": "Norway",
@@ -8243,7 +8243,7 @@
   {
     "id": "1575",
     "full_name": "MORGAN RIELLY",
-    "cardImage": "/images/cards/157508092025064559.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/157508092025064559.jpg",
     "position": "LD",
     "team": "TOR",
     "nationality": "Canada",
@@ -8284,7 +8284,7 @@
   {
     "id": "1580",
     "full_name": "OLIVER EKMAN-LARSSON",
-    "cardImage": "/images/cards/158008092025064625.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/158008092025064625.jpg",
     "position": "LD",
     "team": "TOR",
     "nationality": "Sweden",
@@ -8325,7 +8325,7 @@
   {
     "id": "1581",
     "full_name": "JAKE MCCABE",
-    "cardImage": "/images/cards/158108092025064629.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/158108092025064629.jpg",
     "position": "LD",
     "team": "TOR",
     "nationality": "USA",
@@ -8366,7 +8366,7 @@
   {
     "id": "1583",
     "full_name": "HENRY THRUN",
-    "cardImage": "/images/cards/158308092025064635.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/158308092025064635.jpg",
     "position": "LD",
     "team": "TOR",
     "nationality": "USA",
@@ -8407,7 +8407,7 @@
   {
     "id": "1584",
     "full_name": "BRANDON CARLO",
-    "cardImage": "/images/cards/158408092025064640.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/158408092025064640.jpg",
     "position": "RD",
     "team": "TOR",
     "nationality": "USA",
@@ -8448,7 +8448,7 @@
   {
     "id": "1587",
     "full_name": "CHRISTOPHER TANEV",
-    "cardImage": "/images/cards/158708092025064652.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/158708092025064652.jpg",
     "position": "RD",
     "team": "TOR",
     "nationality": "Canada",
@@ -8489,7 +8489,7 @@
   {
     "id": "1593",
     "full_name": "SIMON BENOIT",
-    "cardImage": "/images/cards/159308092025064719.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/159308092025064719.jpg",
     "position": "LD",
     "team": "TOR",
     "nationality": "Canada",
@@ -8530,7 +8530,7 @@
   {
     "id": "1594",
     "full_name": "JANI HAKANPAA",
-    "cardImage": "/images/cards/159408092025064732.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/159408092025064732.jpg",
     "position": "RD",
     "team": "TOR",
     "nationality": "Finland",
@@ -8571,7 +8571,7 @@
   {
     "id": "1596",
     "full_name": "PHILIPPE MYERS",
-    "cardImage": "/images/cards/159608092025064738.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/159608092025064738.jpg",
     "position": "RD",
     "team": "TOR",
     "nationality": "Canada",
@@ -8612,7 +8612,7 @@
   {
     "id": "1598",
     "full_name": "MIKHAIL SERGACHEV",
-    "cardImage": "/images/cards/159808092025064759.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/159808092025064759.jpg",
     "position": "LD",
     "team": "UTA",
     "nationality": "Russia",
@@ -8653,7 +8653,7 @@
   {
     "id": "1601",
     "full_name": "SEAN DURZI",
-    "cardImage": "/images/cards/160108092025064808.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/160108092025064808.jpg",
     "position": "RD",
     "team": "UTA",
     "nationality": "Canada",
@@ -8694,7 +8694,7 @@
   {
     "id": "1609",
     "full_name": "JOHN MARINO",
-    "cardImage": "/images/cards/160908092025064858.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/160908092025064858.jpg",
     "position": "RD",
     "team": "UTA",
     "nationality": "USA",
@@ -8735,7 +8735,7 @@
   {
     "id": "1612",
     "full_name": "NATE SCHMIDT",
-    "cardImage": "/images/cards/161208092025064906.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/161208092025064906.jpg",
     "position": "LD",
     "team": "UTA",
     "nationality": "USA",
@@ -8776,7 +8776,7 @@
   {
     "id": "1613",
     "full_name": "IAN COLE",
-    "cardImage": "/images/cards/161308092025064912.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/161308092025064912.jpg",
     "position": "LD",
     "team": "UTA",
     "nationality": "USA",
@@ -8817,7 +8817,7 @@
   {
     "id": "1614",
     "full_name": "MAVERIC LAMOUREUX",
-    "cardImage": "/images/cards/161408092025074438.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/161408092025074438.jpg",
     "position": "RD",
     "team": "UTA",
     "nationality": "Canada",
@@ -8858,7 +8858,7 @@
   {
     "id": "1616",
     "full_name": "SCOTT PERUNOVICH",
-    "cardImage": "/images/cards/161608092025074447.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/161608092025074447.jpg",
     "position": "LD",
     "team": "UTA",
     "nationality": "USA",
@@ -8899,7 +8899,7 @@
   {
     "id": "1617",
     "full_name": "NICK DESIMONE",
-    "cardImage": "/images/cards/161708092025074452.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/161708092025074452.jpg",
     "position": "RD",
     "team": "UTA",
     "nationality": "USA",
@@ -8940,7 +8940,7 @@
   {
     "id": "1618",
     "full_name": "OLLI MAATTA",
-    "cardImage": "/images/cards/161808092025074456.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/161808092025074456.jpg",
     "position": "LD",
     "team": "UTA",
     "nationality": "Finland",
@@ -8981,7 +8981,7 @@
   {
     "id": "1620",
     "full_name": "QUINN HUGHES",
-    "cardImage": "/images/cards/162008092025074511.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/162008092025074511.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "USA",
@@ -9022,7 +9022,7 @@
   {
     "id": "1624",
     "full_name": "FILIP HRONEK",
-    "cardImage": "/images/cards/162408092025074637.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/162408092025074637.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Czechia",
@@ -9063,7 +9063,7 @@
   {
     "id": "1630",
     "full_name": "MARCUS PETTERSSON",
-    "cardImage": "/images/cards/163008092025074708.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/163008092025074708.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "Sweden",
@@ -9104,7 +9104,7 @@
   {
     "id": "1634",
     "full_name": "PIERRE-OLIVIER JOSEPH",
-    "cardImage": "/images/cards/163408092025074731.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/163408092025074731.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "Canada",
@@ -9145,7 +9145,7 @@
   {
     "id": "1636",
     "full_name": "DEREK FORBORT",
-    "cardImage": "/images/cards/163608092025074757.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/163608092025074757.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "USA",
@@ -9186,7 +9186,7 @@
   {
     "id": "1638",
     "full_name": "VICTOR MANCINI",
-    "cardImage": "/images/cards/163808092025074806.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/163808092025074806.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "USA",
@@ -9227,7 +9227,7 @@
   {
     "id": "1646",
     "full_name": "RYAN MCDONAGH",
-    "cardImage": "/images/cards/164608092025075840.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/164608092025075840.jpg",
     "position": "LD",
     "team": "TBL",
     "nationality": "USA",
@@ -9268,7 +9268,7 @@
   {
     "id": "1648",
     "full_name": "TYLER MYERS",
-    "cardImage": "/images/cards/164808092025080022.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/164808092025080022.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Canada",
@@ -9309,7 +9309,7 @@
   {
     "id": "1649",
     "full_name": "ELIAS PETTERSSON",
-    "cardImage": "/images/cards/164908092025080028.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/164908092025080028.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "Sweden",
@@ -9350,7 +9350,7 @@
   {
     "id": "1654",
     "full_name": "SHEA THEODORE",
-    "cardImage": "/images/cards/165408092025080149.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/165408092025080149.jpg",
     "position": "LD",
     "team": "VGK ",
     "nationality": "Canada",
@@ -9391,7 +9391,7 @@
   {
     "id": "1658",
     "full_name": "NOAH HANIFIN",
-    "cardImage": "/images/cards/165808092025080208.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/165808092025080208.jpg",
     "position": "LD",
     "team": "VGK ",
     "nationality": "USA",
@@ -9432,7 +9432,7 @@
   {
     "id": "1660",
     "full_name": "ALEX PIETRANGELO",
-    "cardImage": "/images/cards/166008092025080222.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/166008092025080222.jpg",
     "position": "RD",
     "team": "VGK ",
     "nationality": "Canada",
@@ -9473,7 +9473,7 @@
   {
     "id": "1662",
     "full_name": "BRAYDEN MCNABB",
-    "cardImage": "/images/cards/166208092025080231.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/166208092025080231.jpg",
     "position": "LD",
     "team": "VGK ",
     "nationality": "Canada",
@@ -9514,7 +9514,7 @@
   {
     "id": "1665",
     "full_name": "ZACH WHITECLOUD",
-    "cardImage": "/images/cards/166508092025080239.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/166508092025080239.jpg",
     "position": "RD",
     "team": "VGK ",
     "nationality": "Canada",
@@ -9555,7 +9555,7 @@
   {
     "id": "1667",
     "full_name": "KAEDAN KORCZAK",
-    "cardImage": "/images/cards/166708092025080245.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/166708092025080245.jpg",
     "position": "RD",
     "team": "VGK ",
     "nationality": "Canada",
@@ -9596,7 +9596,7 @@
   {
     "id": "1668",
     "full_name": "BEN HUTTON",
-    "cardImage": "/images/cards/166808092025080247.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/166808092025080247.jpg",
     "position": "LD",
     "team": "VGK ",
     "nationality": "Canada",
@@ -9637,7 +9637,7 @@
   {
     "id": "1672",
     "full_name": "JAKOB CHYCHRUN",
-    "cardImage": "/images/cards/167208092025080316.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/167208092025080316.jpg",
     "position": "LD",
     "team": "WSH",
     "nationality": "Canada",
@@ -9678,7 +9678,7 @@
   {
     "id": "1673",
     "full_name": "JOHN CARLSON",
-    "cardImage": "/images/cards/167308092025080319.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/167308092025080319.jpg",
     "position": "RD",
     "team": "WSH",
     "nationality": "USA",
@@ -9719,7 +9719,7 @@
   {
     "id": "1678",
     "full_name": "RASMUS SANDIN",
-    "cardImage": "/images/cards/167808092025080344.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/167808092025080344.jpg",
     "position": "LD",
     "team": "WSH",
     "nationality": "Sweden",
@@ -9760,7 +9760,7 @@
   {
     "id": "1679",
     "full_name": "MARTIN FEHERVARY",
-    "cardImage": "/images/cards/167908092025080347.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/167908092025080347.jpg",
     "position": "LD",
     "team": "WSH",
     "nationality": "Slovakia",
@@ -9801,7 +9801,7 @@
   {
     "id": "1681",
     "full_name": "MATT ROY",
-    "cardImage": "/images/cards/168108092025080352.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/168108092025080352.jpg",
     "position": "RD",
     "team": "WSH",
     "nationality": "USA",
@@ -9842,7 +9842,7 @@
   {
     "id": "1684",
     "full_name": "TREVOR VAN RIEMSDYK",
-    "cardImage": "/images/cards/168408092025080408.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/168408092025080408.jpg",
     "position": "RD",
     "team": "WSH",
     "nationality": "USA",
@@ -9883,7 +9883,7 @@
   {
     "id": "1685",
     "full_name": "DECLAN CHISHOLM",
-    "cardImage": "/images/cards/168508092025080413.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/168508092025080413.jpg",
     "position": "RD",
     "team": "WSH",
     "nationality": "Canada",
@@ -9924,7 +9924,7 @@
   {
     "id": "1688",
     "full_name": "DYLAN MCILRATH",
-    "cardImage": "/images/cards/168808092025080422.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/168808092025080422.jpg",
     "position": "RD",
     "team": "WSH",
     "nationality": "Canada",
@@ -9965,7 +9965,7 @@
   {
     "id": "1691",
     "full_name": "JOSH MORRISSEY",
-    "cardImage": "/images/cards/169108092025080507.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/169108092025080507.jpg",
     "position": "LD",
     "team": "WPG",
     "nationality": "Canada",
@@ -10006,7 +10006,7 @@
   {
     "id": "1696",
     "full_name": "NEAL PIONK",
-    "cardImage": "/images/cards/169608092025080533.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/169608092025080533.jpg",
     "position": "RD",
     "team": "WPG",
     "nationality": "USA",
@@ -10047,7 +10047,7 @@
   {
     "id": "1699",
     "full_name": "COLIN MILLER",
-    "cardImage": "/images/cards/169908092025080546.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/169908092025080546.jpg",
     "position": "RD",
     "team": "WPG",
     "nationality": "Canada",
@@ -10088,7 +10088,7 @@
   {
     "id": "1704",
     "full_name": "DYLAN SAMBERG",
-    "cardImage": "/images/cards/170408092025081304.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/170408092025081304.jpg",
     "position": "LD",
     "team": "WPG",
     "nationality": "USA",
@@ -10129,7 +10129,7 @@
   {
     "id": "1706",
     "full_name": "DYLAN DEMELO",
-    "cardImage": "/images/cards/170608092025081308.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/170608092025081308.jpg",
     "position": "RD",
     "team": "WPG",
     "nationality": "Canada",
@@ -10170,7 +10170,7 @@
   {
     "id": "1707",
     "full_name": "HAYDN FLEURY",
-    "cardImage": "/images/cards/170708092025081310.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/170708092025081310.jpg",
     "position": "LD",
     "team": "WPG",
     "nationality": "Canada",
@@ -10211,7 +10211,7 @@
   {
     "id": "1709",
     "full_name": "LUKE SCHENN",
-    "cardImage": "/images/cards/170908092025081315.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/170908092025081315.jpg",
     "position": "RD",
     "team": "WPG",
     "nationality": "Canada",
@@ -10252,7 +10252,7 @@
   {
     "id": "1710",
     "full_name": "LOGAN STANLEY",
-    "cardImage": "/images/cards/171008092025081317.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/171008092025081317.jpg",
     "position": "LD",
     "team": "WPG",
     "nationality": "Canada",
@@ -10293,7 +10293,7 @@
   {
     "id": "1713",
     "full_name": "VILLE HEINOLA",
-    "cardImage": "/images/cards/171308092025081328.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/171308092025081328.jpg",
     "position": "LD",
     "team": "WPG",
     "nationality": "Finland",
@@ -10334,7 +10334,7 @@
   {
     "id": "1714",
     "full_name": "JEREMY LAUZON",
-    "cardImage": "/images/cards/171408092025081442.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/171408092025081442.jpg",
     "position": "LD",
     "team": "VGK ",
     "nationality": "Canada",
@@ -10375,7 +10375,7 @@
   {
     "id": "1716",
     "full_name": "FRANCOIS BEAUCHEMIN",
-    "cardImage": "/images/cards/171608092025093352.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/171608092025093352.jpg",
     "position": "LD",
     "team": "ANA",
     "nationality": "Canada",
@@ -10416,7 +10416,7 @@
   {
     "id": "1719",
     "full_name": "DMITRI MIRONOV",
-    "cardImage": "/images/cards/171908092025093411.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/171908092025093411.jpg",
     "position": "RD",
     "team": "ANA",
     "nationality": "Russia",
@@ -10457,7 +10457,7 @@
   {
     "id": "1720",
     "full_name": "KEITH CARNEY",
-    "cardImage": "/images/cards/172008092025093416.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/172008092025093416.jpg",
     "position": "LD",
     "team": "ANA",
     "nationality": "USA",
@@ -10498,7 +10498,7 @@
   {
     "id": "1728",
     "full_name": "KEVIN HALLER",
-    "cardImage": "/images/cards/172808092025093448.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/172808092025093448.jpg",
     "position": "LD",
     "team": "ANA",
     "nationality": "Canada",
@@ -10539,7 +10539,7 @@
   {
     "id": "1729",
     "full_name": "RAY BOURQUE",
-    "cardImage": "/images/cards/172908092025093524.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/172908092025093524.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "Canada",
@@ -10580,7 +10580,7 @@
   {
     "id": "1733",
     "full_name": "BRAD PARK",
-    "cardImage": "/images/cards/173308092025093542.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/173308092025093542.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "Canada",
@@ -10621,7 +10621,7 @@
   {
     "id": "1734",
     "full_name": "ZDENO CHARA",
-    "cardImage": "/images/cards/173408092025093545.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/173408092025093545.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "Slovakia",
@@ -10662,7 +10662,7 @@
   {
     "id": "1743",
     "full_name": "DALLAS SMITH",
-    "cardImage": "/images/cards/174308092025093623.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/174308092025093623.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "Canada",
@@ -10703,7 +10703,7 @@
   {
     "id": "1745",
     "full_name": "ED WESTFALL",
-    "cardImage": "/images/cards/174508092025093634.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/174508092025093634.jpg",
     "position": "RD",
     "team": "BOS",
     "nationality": "Canada",
@@ -10744,7 +10744,7 @@
   {
     "id": "1746",
     "full_name": "HAL GILL",
-    "cardImage": "/images/cards/174608092025093637.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/174608092025093637.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "USA",
@@ -10785,7 +10785,7 @@
   {
     "id": "1748",
     "full_name": "KEVAN MILLER",
-    "cardImage": "/images/cards/174808092025093644.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/174808092025093644.jpg",
     "position": "RD",
     "team": "BOS",
     "nationality": "USA",
@@ -10826,7 +10826,7 @@
   {
     "id": "1750",
     "full_name": "DONALD AWREY",
-    "cardImage": "/images/cards/175008092025093651.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/175008092025093651.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "Canada",
@@ -10867,7 +10867,7 @@
   {
     "id": "1753",
     "full_name": "RICK SMITH",
-    "cardImage": "/images/cards/175308092025093704.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/175308092025093704.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "Canada",
@@ -10908,7 +10908,7 @@
   {
     "id": "1754",
     "full_name": "PHIL HOUSLEY",
-    "cardImage": "/images/cards/175408092025093728.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/175408092025093728.jpg",
     "position": "LD",
     "team": "BUF",
     "nationality": "USA",
@@ -10949,7 +10949,7 @@
   {
     "id": "1760",
     "full_name": "GERALD KORAB",
-    "cardImage": "/images/cards/176008092025093754.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/176008092025093754.jpg",
     "position": "LD",
     "team": "BUF",
     "nationality": "Canada",
@@ -10990,7 +10990,7 @@
   {
     "id": "1762",
     "full_name": "WILLIAM HAJT",
-    "cardImage": "/images/cards/176208092025093800.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/176208092025093800.jpg",
     "position": "LD",
     "team": "BUF",
     "nationality": "Canada",
@@ -11031,7 +11031,7 @@
   {
     "id": "1766",
     "full_name": "JOSH GORGES",
-    "cardImage": "/images/cards/176608092025093815.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/176608092025093815.jpg",
     "position": "LD",
     "team": "BUF",
     "nationality": "Canada",
@@ -11072,7 +11072,7 @@
   {
     "id": "1770",
     "full_name": "LARRY PLAYFAIR",
-    "cardImage": "/images/cards/177008092025093831.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/177008092025093831.jpg",
     "position": "LD",
     "team": "BUF",
     "nationality": "Canada",
@@ -11113,7 +11113,7 @@
   {
     "id": "1774",
     "full_name": "GARY SUTER",
-    "cardImage": "/images/cards/177408092025093901.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/177408092025093901.jpg",
     "position": "LD",
     "team": "CGY",
     "nationality": "USA",
@@ -11154,7 +11154,7 @@
   {
     "id": "1777",
     "full_name": "PAUL REINHART",
-    "cardImage": "/images/cards/177708092025093920.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/177708092025093920.jpg",
     "position": "LD",
     "team": "CGY",
     "nationality": "Canada",
@@ -11195,7 +11195,7 @@
   {
     "id": "1780",
     "full_name": "ROBYN REGEHR",
-    "cardImage": "/images/cards/178008092025093939.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/178008092025093939.jpg",
     "position": "LD",
     "team": "CGY",
     "nationality": "Canada",
@@ -11236,7 +11236,7 @@
   {
     "id": "1784",
     "full_name": "STEVE KONROYD",
-    "cardImage": "/images/cards/178408092025094000.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/178408092025094000.jpg",
     "position": "LD",
     "team": "CGY",
     "nationality": "Canada",
@@ -11277,7 +11277,7 @@
   {
     "id": "1791",
     "full_name": "SEAN HILL",
-    "cardImage": "/images/cards/179108092025094050.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/179108092025094050.jpg",
     "position": "RD",
     "team": "CAR",
     "nationality": "USA",
@@ -11318,7 +11318,7 @@
   {
     "id": "1795",
     "full_name": "AARON WARD",
-    "cardImage": "/images/cards/179508092025094105.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/179508092025094105.jpg",
     "position": "RD",
     "team": "CAR",
     "nationality": "Canada",
@@ -11359,7 +11359,7 @@
   {
     "id": "1797",
     "full_name": "MIKE COMMODORE",
-    "cardImage": "/images/cards/179708092025094112.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/179708092025094112.jpg",
     "position": "RD",
     "team": "CAR",
     "nationality": "Canada",
@@ -11400,7 +11400,7 @@
   {
     "id": "1798",
     "full_name": "ANDREW ALBERTS",
-    "cardImage": "/images/cards/179808092025094117.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/179808092025094117.jpg",
     "position": "LD",
     "team": "CAR",
     "nationality": "USA",
@@ -11441,7 +11441,7 @@
   {
     "id": "1804",
     "full_name": "CHRIS CHELIOS",
-    "cardImage": "/images/cards/180408092025094142.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/180408092025094142.jpg",
     "position": "RD",
     "team": "CHI",
     "nationality": "USA",
@@ -11482,7 +11482,7 @@
   {
     "id": "1808",
     "full_name": "BRENT SEABROOK",
-    "cardImage": "/images/cards/180808092025094227.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/180808092025094227.jpg",
     "position": "RD",
     "team": "CHI",
     "nationality": "Canada",
@@ -11523,7 +11523,7 @@
   {
     "id": "1811",
     "full_name": "BOB MURRAY",
-    "cardImage": "/images/cards/181108092025094237.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/181108092025094237.jpg",
     "position": "RD",
     "team": "CHI",
     "nationality": "Canada",
@@ -11564,7 +11564,7 @@
   {
     "id": "1814",
     "full_name": "NIKLAS HJALMARSSON",
-    "cardImage": "/images/cards/181408092025094246.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/181408092025094246.jpg",
     "position": "LD",
     "team": "CHI",
     "nationality": "Sweden",
@@ -11605,7 +11605,7 @@
   {
     "id": "1816",
     "full_name": "JOHN MARKS",
-    "cardImage": "/images/cards/181608092025094645.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/181608092025094645.jpg",
     "position": "LD",
     "team": "CHI",
     "nationality": "Canada",
@@ -11646,7 +11646,7 @@
   {
     "id": "1818",
     "full_name": "KEITH BROWN",
-    "cardImage": "/images/cards/181808092025094651.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/181808092025094651.jpg",
     "position": "RD",
     "team": "CHI",
     "nationality": "Canada",
@@ -11687,7 +11687,7 @@
   {
     "id": "1820",
     "full_name": "KEITH MAGNUSON",
-    "cardImage": "/images/cards/182008092025094656.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/182008092025094656.jpg",
     "position": "RD",
     "team": "CHI",
     "nationality": "Canada",
@@ -11728,7 +11728,7 @@
   {
     "id": "1821",
     "full_name": "PHIL RUSSELL",
-    "cardImage": "/images/cards/182108092025094658.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/182108092025094658.jpg",
     "position": "LD",
     "team": "CHI",
     "nationality": "Canada",
@@ -11769,7 +11769,7 @@
   {
     "id": "1828",
     "full_name": "ADAM FOOTE",
-    "cardImage": "/images/cards/182808092025094803.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/182808092025094803.jpg",
     "position": "RD",
     "team": "COL",
     "nationality": "Canada",
@@ -11810,7 +11810,7 @@
   {
     "id": "1830",
     "full_name": "UWE KRUPP",
-    "cardImage": "/images/cards/183008092025094810.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/183008092025094810.jpg",
     "position": "RD",
     "team": "COL",
     "nationality": "Germany",
@@ -11851,7 +11851,7 @@
   {
     "id": "1831",
     "full_name": "JOHN-MICHAEL LILES",
-    "cardImage": "/images/cards/183108092025094815.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/183108092025094815.jpg",
     "position": "LD",
     "team": "COL",
     "nationality": "USA",
@@ -11892,7 +11892,7 @@
   {
     "id": "1834",
     "full_name": "SYLVAIN LEFEBVRE",
-    "cardImage": "/images/cards/183408092025094842.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/183408092025094842.jpg",
     "position": "LD",
     "team": "COL",
     "nationality": "Canada",
@@ -11933,7 +11933,7 @@
   {
     "id": "1837",
     "full_name": "NICK HOLDEN",
-    "cardImage": "/images/cards/183708092025094913.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/183708092025094913.jpg",
     "position": "LD",
     "team": "COL",
     "nationality": "Canada",
@@ -11974,7 +11974,7 @@
   {
     "id": "1843",
     "full_name": "FEDOR TYUTIN",
-    "cardImage": "/images/cards/184308092025094952.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/184308092025094952.jpg",
     "position": "LD",
     "team": "CBJ",
     "nationality": "Russia",
@@ -12015,7 +12015,7 @@
   {
     "id": "1846",
     "full_name": "BRYAN BERARD",
-    "cardImage": "/images/cards/184608092025095007.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/184608092025095007.jpg",
     "position": "LD",
     "team": "CBJ",
     "nationality": "USA",
@@ -12056,7 +12056,7 @@
   {
     "id": "1848",
     "full_name": "LUKE RICHARDSON",
-    "cardImage": "/images/cards/184808092025095013.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/184808092025095013.jpg",
     "position": "LD",
     "team": "CBJ",
     "nationality": "Canada",
@@ -12097,7 +12097,7 @@
   {
     "id": "1854",
     "full_name": "SERGEI ZUBOV",
-    "cardImage": "/images/cards/185408092025095056.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/185408092025095056.jpg",
     "position": "RD",
     "team": "DAL",
     "nationality": "Russia",
@@ -12138,7 +12138,7 @@
   {
     "id": "1864",
     "full_name": "RICHARD MATVICHUK",
-    "cardImage": "/images/cards/186408092025095125.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/186408092025095125.jpg",
     "position": "LD",
     "team": "DAL",
     "nationality": "Canada",
@@ -12179,7 +12179,7 @@
   {
     "id": "1866",
     "full_name": "CRAIG LUDWIG",
-    "cardImage": "/images/cards/186608092025095132.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/186608092025095132.jpg",
     "position": "LD",
     "team": "DAL",
     "nationality": "USA",
@@ -12220,7 +12220,7 @@
   {
     "id": "1867",
     "full_name": "SHAWN CHAMBERS",
-    "cardImage": "/images/cards/186708092025095137.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/186708092025095137.jpg",
     "position": "LD",
     "team": "DAL",
     "nationality": "USA",
@@ -12261,7 +12261,7 @@
   {
     "id": "1868",
     "full_name": "BRAD LUKOWICH",
-    "cardImage": "/images/cards/186808092025095140.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/186808092025095140.jpg",
     "position": "LD",
     "team": "DAL",
     "nationality": "Canada",
@@ -12302,7 +12302,7 @@
   {
     "id": "1870",
     "full_name": "NICKLAS LIDSTROM",
-    "cardImage": "/images/cards/187008092025095201.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/187008092025095201.jpg",
     "position": "LD",
     "team": "DET",
     "nationality": "Sweden",
@@ -12343,7 +12343,7 @@
   {
     "id": "1879",
     "full_name": "NIKLAS KRONWALL",
-    "cardImage": "/images/cards/187908092025095244.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/187908092025095244.jpg",
     "position": "LD",
     "team": "DET",
     "nationality": "Sweden",
@@ -12384,7 +12384,7 @@
   {
     "id": "1886",
     "full_name": "MATHIEU DANDENAULT",
-    "cardImage": "/images/cards/188608092025095305.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/188608092025095305.jpg",
     "position": "RD",
     "team": "DET",
     "nationality": "Canada",
@@ -12425,7 +12425,7 @@
   {
     "id": "1888",
     "full_name": "KYLE QUINCEY",
-    "cardImage": "/images/cards/188808092025095310.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/188808092025095310.jpg",
     "position": "LD",
     "team": "DET",
     "nationality": "Canada",
@@ -12466,7 +12466,7 @@
   {
     "id": "1898",
     "full_name": "RED KELLY",
-    "cardImage": "/images/cards/189808092025100727.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/189808092025100727.jpg",
     "position": "LD",
     "team": "DET",
     "nationality": "Canada",
@@ -12507,7 +12507,7 @@
   {
     "id": "1899",
     "full_name": "REED LARSON",
-    "cardImage": "/images/cards/189908092025100730.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/189908092025100730.jpg",
     "position": "RD",
     "team": "DET",
     "nationality": "USA",
@@ -12548,7 +12548,7 @@
   {
     "id": "1904",
     "full_name": "PAUL COFFEY",
-    "cardImage": "/images/cards/190408092025100845.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/190408092025100845.jpg",
     "position": "LD",
     "team": "EDM",
     "nationality": "Canada",
@@ -12589,7 +12589,7 @@
   {
     "id": "1910",
     "full_name": "CHARLIE HUDDY",
-    "cardImage": "/images/cards/191008092025100909.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/191008092025100909.jpg",
     "position": "LD",
     "team": "EDM",
     "nationality": "Canada",
@@ -12630,7 +12630,7 @@
   {
     "id": "1912",
     "full_name": "KEVIN LOWE",
-    "cardImage": "/images/cards/191208092025100914.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/191208092025100914.jpg",
     "position": "LD",
     "team": "EDM",
     "nationality": "Canada",
@@ -12671,7 +12671,7 @@
   {
     "id": "1915",
     "full_name": "REIJO RUOTSALAINEN",
-    "cardImage": "/images/cards/191508092025100923.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/191508092025100923.jpg",
     "position": "RD",
     "team": "EDM",
     "nationality": "Finland",
@@ -12712,7 +12712,7 @@
   {
     "id": "1917",
     "full_name": "RANDY GREGG",
-    "cardImage": "/images/cards/191708092025100931.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/191708092025100931.jpg",
     "position": "LD",
     "team": "EDM",
     "nationality": "Canada",
@@ -12753,7 +12753,7 @@
   {
     "id": "1920",
     "full_name": "LEE FOGOLIN",
-    "cardImage": "/images/cards/192008092025100944.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/192008092025100944.jpg",
     "position": "RD",
     "team": "EDM",
     "nationality": "USA",
@@ -12794,7 +12794,7 @@
   {
     "id": "1921",
     "full_name": "JANNE NIINIMAA",
-    "cardImage": "/images/cards/192108092025100948.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/192108092025100948.jpg",
     "position": "LD",
     "team": "EDM",
     "nationality": "Finland",
@@ -12835,7 +12835,7 @@
   {
     "id": "1924",
     "full_name": "JASON SMITH",
-    "cardImage": "/images/cards/192408092025100958.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/192408092025100958.jpg",
     "position": "RD",
     "team": "EDM",
     "nationality": "Canada",
@@ -12876,7 +12876,7 @@
   {
     "id": "1925",
     "full_name": "JEFF BEUKEBOOM",
-    "cardImage": "/images/cards/192508092025101001.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/192508092025101001.jpg",
     "position": "RD",
     "team": "EDM",
     "nationality": "Canada",
@@ -12917,7 +12917,7 @@
   {
     "id": "1926",
     "full_name": "STEVE STAIOS",
-    "cardImage": "/images/cards/192608092025101004.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/192608092025101004.jpg",
     "position": "RD",
     "team": "EDM",
     "nationality": "Canada",
@@ -12958,7 +12958,7 @@
   {
     "id": "1931",
     "full_name": "KEITH YANDLE",
-    "cardImage": "/images/cards/193108092025101047.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/193108092025101047.jpg",
     "position": "LD",
     "team": "FLA",
     "nationality": "USA",
@@ -12999,7 +12999,7 @@
   {
     "id": "1932",
     "full_name": "JAY BOUWMEESTER",
-    "cardImage": "/images/cards/193208092025101050.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/193208092025101050.jpg",
     "position": "LD",
     "team": "FLA",
     "nationality": "Canada",
@@ -13040,7 +13040,7 @@
   {
     "id": "1933",
     "full_name": "BRIAN CAMPBELL",
-    "cardImage": "/images/cards/193308092025101052.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/193308092025101052.jpg",
     "position": "LD",
     "team": "FLA",
     "nationality": "Canada",
@@ -13081,7 +13081,7 @@
   {
     "id": "1935",
     "full_name": "GORD MURPHY",
-    "cardImage": "/images/cards/193508092025101057.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/193508092025101057.jpg",
     "position": "RD",
     "team": "FLA",
     "nationality": "Canada",
@@ -13122,7 +13122,7 @@
   {
     "id": "1939",
     "full_name": "JACCOB SLAVIN",
-    "cardImage": "/images/cards/193908092025101350.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/193908092025101350.jpg",
     "position": "LD",
     "team": "CAR",
     "nationality": "USA",
@@ -13163,7 +13163,7 @@
   {
     "id": "1940",
     "full_name": "JACOB TROUBA",
-    "cardImage": "/images/cards/194008092025101411.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/194008092025101411.jpg",
     "position": "RD",
     "team": "ANA",
     "nationality": "USA",
@@ -13204,7 +13204,7 @@
   {
     "id": "1949",
     "full_name": "BRYAN ALLEN",
-    "cardImage": "/images/cards/194908092025102322.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/194908092025102322.jpg",
     "position": "LD",
     "team": "FLA",
     "nationality": "Canada",
@@ -13245,7 +13245,7 @@
   {
     "id": "1950",
     "full_name": "PAUL LAUS",
-    "cardImage": "/images/cards/195008092025102327.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/195008092025102327.jpg",
     "position": "RD",
     "team": "FLA",
     "nationality": "Canada",
@@ -13286,7 +13286,7 @@
   {
     "id": "1952",
     "full_name": "TODD SIMPSON",
-    "cardImage": "/images/cards/195208092025102336.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/195208092025102336.jpg",
     "position": "LD",
     "team": "FLA",
     "nationality": "Canada",
@@ -13327,7 +13327,7 @@
   {
     "id": "1957",
     "full_name": "ULF SAMUELSSON",
-    "cardImage": "/images/cards/195708092025102412.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/195708092025102412.jpg",
     "position": "LD",
     "team": "HFD",
     "nationality": "Sweden",
@@ -13368,7 +13368,7 @@
   {
     "id": "1962",
     "full_name": "GRANT JENNINGS",
-    "cardImage": "/images/cards/196208092025102441.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/196208092025102441.jpg",
     "position": "LD",
     "team": "HFD",
     "nationality": "Canada",
@@ -13409,7 +13409,7 @@
   {
     "id": "1964",
     "full_name": "ED HOSPODAR",
-    "cardImage": "/images/cards/196408092025102447.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/196408092025102447.jpg",
     "position": "RD",
     "team": "HFD",
     "nationality": "USA",
@@ -13450,7 +13450,7 @@
   {
     "id": "1965",
     "full_name": "DAN KECZMER",
-    "cardImage": "/images/cards/196508092025102450.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/196508092025102450.jpg",
     "position": "LD",
     "team": "HFD",
     "nationality": "USA",
@@ -13491,7 +13491,7 @@
   {
     "id": "1968",
     "full_name": "ROB BLAKE",
-    "cardImage": "/images/cards/196808092025102606.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/196808092025102606.jpg",
     "position": "RD",
     "team": "LAK",
     "nationality": "Canada",
@@ -13532,7 +13532,7 @@
   {
     "id": "1973",
     "full_name": "STEVE DUCHESNE",
-    "cardImage": "/images/cards/197308092025102629.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/197308092025102629.jpg",
     "position": "LD",
     "team": "LAK",
     "nationality": "Canada",
@@ -13573,7 +13573,7 @@
   {
     "id": "1977",
     "full_name": "MARTY MCSORLEY",
-    "cardImage": "/images/cards/197708092025102644.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/197708092025102644.jpg",
     "position": "RD",
     "team": "LAK",
     "nationality": "Canada",
@@ -13614,7 +13614,7 @@
   {
     "id": "1982",
     "full_name": "CRAIG HARTSBURG",
-    "cardImage": "/images/cards/198208092025105309.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/198208092025105309.jpg",
     "position": "LD",
     "team": "MIN",
     "nationality": "Canada",
@@ -13655,7 +13655,7 @@
   {
     "id": "1988",
     "full_name": "BRAD MAXWELL",
-    "cardImage": "/images/cards/198808092025105331.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/198808092025105331.jpg",
     "position": "RD",
     "team": "MIN",
     "nationality": "Canada",
@@ -13696,7 +13696,7 @@
   {
     "id": "1989",
     "full_name": "GORDIE ROBERTS",
-    "cardImage": "/images/cards/198908092025105456.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/198908092025105456.jpg",
     "position": "LD",
     "team": "MIN",
     "nationality": "USA",
@@ -13737,7 +13737,7 @@
   {
     "id": "1994",
     "full_name": "BOB ROUSE",
-    "cardImage": "/images/cards/199408092025105518.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/199408092025105518.jpg",
     "position": "RD",
     "team": "MIN",
     "nationality": "Canada",
@@ -13778,7 +13778,7 @@
   {
     "id": "1995",
     "full_name": "FILIP KUBA",
-    "cardImage": "/images/cards/199508092025105618.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/199508092025105618.jpg",
     "position": "LD",
     "team": "MIN",
     "nationality": "Czechia",
@@ -13819,7 +13819,7 @@
   {
     "id": "1997",
     "full_name": "NICK SCHULTZ",
-    "cardImage": "/images/cards/199708092025105629.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/199708092025105629.jpg",
     "position": "LD",
     "team": "MIN",
     "nationality": "Canada",
@@ -13860,7 +13860,7 @@
   {
     "id": "2000",
     "full_name": "WILLIE MITCHELL",
-    "cardImage": "/images/cards/200008092025105640.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/200008092025105640.jpg",
     "position": "LD",
     "team": "MIN",
     "nationality": "Canada",
@@ -13901,7 +13901,7 @@
   {
     "id": "2004",
     "full_name": "ZBYNEK MICHALEK",
-    "cardImage": "/images/cards/200408092025105651.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/200408092025105651.jpg",
     "position": "RD",
     "team": "MIN",
     "nationality": "Czechia",
@@ -13942,7 +13942,7 @@
   {
     "id": "2015",
     "full_name": "SERGE SAVARD",
-    "cardImage": "/images/cards/201508092025105801.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/201508092025105801.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "Canada",
@@ -13983,7 +13983,7 @@
   {
     "id": "2017",
     "full_name": "PATRICE BRISEBOIS",
-    "cardImage": "/images/cards/201708092025105807.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/201708092025105807.jpg",
     "position": "RD",
     "team": "MTL",
     "nationality": "Canada",
@@ -14024,7 +14024,7 @@
   {
     "id": "2019",
     "full_name": "MATHIEU SCHNEIDER",
-    "cardImage": "/images/cards/201908092025105814.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/201908092025105814.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "USA",
@@ -14065,7 +14065,7 @@
   {
     "id": "2022",
     "full_name": "GUY LAPOINTE",
-    "cardImage": "/images/cards/202208092025105824.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/202208092025105824.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "Canada",
@@ -14106,7 +14106,7 @@
   {
     "id": "2029",
     "full_name": "SHELDON SOURAY",
-    "cardImage": "/images/cards/202908092025105848.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/202908092025105848.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "Canada",
@@ -14147,7 +14147,7 @@
   {
     "id": "2030",
     "full_name": "PIERRE BOUCHARD",
-    "cardImage": "/images/cards/203008092025105850.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/203008092025105850.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "Canada",
@@ -14188,7 +14188,7 @@
   {
     "id": "2031",
     "full_name": "RICK CHARTRAW",
-    "cardImage": "/images/cards/203108092025105855.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/203108092025105855.jpg",
     "position": "RD",
     "team": "MTL",
     "nationality": "USA",
@@ -14229,7 +14229,7 @@
   {
     "id": "2032",
     "full_name": "STEPHANE QUINTAL",
-    "cardImage": "/images/cards/203208092025105909.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/203208092025105909.jpg",
     "position": "RD",
     "team": "MTL",
     "nationality": "Canada",
@@ -14270,7 +14270,7 @@
   {
     "id": "2034",
     "full_name": "TERRY HARPER",
-    "cardImage": "/images/cards/203408092025105915.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/203408092025105915.jpg",
     "position": "RD",
     "team": "MTL",
     "nationality": "Canada",
@@ -14311,7 +14311,7 @@
   {
     "id": "2037",
     "full_name": "MAREK ZIDLICKY",
-    "cardImage": "/images/cards/203708092025110000.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/203708092025110000.jpg",
     "position": "RD",
     "team": "NSH",
     "nationality": "Czechia",
@@ -14352,7 +14352,7 @@
   {
     "id": "2042",
     "full_name": "GREG DE VRIES",
-    "cardImage": "/images/cards/204208092025110019.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/204208092025110019.jpg",
     "position": "LD",
     "team": "NSH",
     "nationality": "Canada",
@@ -14393,7 +14393,7 @@
   {
     "id": "2043",
     "full_name": "CALE HULSE",
-    "cardImage": "/images/cards/204308092025110022.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/204308092025110022.jpg",
     "position": "RD",
     "team": "NSH",
     "nationality": "Canada",
@@ -14434,7 +14434,7 @@
   {
     "id": "2044",
     "full_name": "SCOTT NIEDERMAYER",
-    "cardImage": "/images/cards/204408092025110044.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/204408092025110044.jpg",
     "position": "LD",
     "team": "NJD",
     "nationality": "Canada",
@@ -14475,7 +14475,7 @@
   {
     "id": "2055",
     "full_name": "KEN DANEYKO",
-    "cardImage": "/images/cards/205508092025110140.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/205508092025110140.jpg",
     "position": "LD",
     "team": "NJD",
     "nationality": "Canada",
@@ -14516,7 +14516,7 @@
   {
     "id": "2058",
     "full_name": "TOMMY ALBELIN",
-    "cardImage": "/images/cards/205808092025110152.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/205808092025110152.jpg",
     "position": "LD",
     "team": "NJD",
     "nationality": "Sweden",
@@ -14557,7 +14557,7 @@
   {
     "id": "2060",
     "full_name": "BRYCE SALVADOR",
-    "cardImage": "/images/cards/206008092025110158.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/206008092025110158.jpg",
     "position": "LD",
     "team": "NJD",
     "nationality": "Canada",
@@ -14598,7 +14598,7 @@
   {
     "id": "2061",
     "full_name": "COLIN WHITE",
-    "cardImage": "/images/cards/206108092025110206.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/206108092025110206.jpg",
     "position": "LD",
     "team": "NJD",
     "nationality": "Canada",
@@ -14639,7 +14639,7 @@
   {
     "id": "2062",
     "full_name": "DENIS POTVIN",
-    "cardImage": "/images/cards/206208092025110308.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/206208092025110308.jpg",
     "position": "LD",
     "team": "NYI",
     "nationality": "Canada",
@@ -14680,7 +14680,7 @@
   {
     "id": "2075",
     "full_name": "JEAN POTVIN",
-    "cardImage": "/images/cards/207508092025110409.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/207508092025110409.jpg",
     "position": "RD",
     "team": "NYI",
     "nationality": "Canada",
@@ -14721,7 +14721,7 @@
   {
     "id": "2076",
     "full_name": "DAVE LANGEVIN",
-    "cardImage": "/images/cards/207608092025110416.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/207608092025110416.jpg",
     "position": "LD",
     "team": "NYI",
     "nationality": "USA",
@@ -14762,7 +14762,7 @@
   {
     "id": "2077",
     "full_name": "BRIAN LEETCH",
-    "cardImage": "/images/cards/207708092025110419.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/207708092025110419.jpg",
     "position": "LD",
     "team": "NYR",
     "nationality": "USA",
@@ -14803,7 +14803,7 @@
   {
     "id": "2085",
     "full_name": "HARRY HOWELL",
-    "cardImage": "/images/cards/208508092025110552.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/208508092025110552.jpg",
     "position": "LD",
     "team": "NYR",
     "nationality": "Canada",
@@ -14844,7 +14844,7 @@
   {
     "id": "2089",
     "full_name": "DAN GIRARDI",
-    "cardImage": "/images/cards/208908092025110606.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/208908092025110606.jpg",
     "position": "RD",
     "team": "NYR",
     "nationality": "Canada",
@@ -14885,7 +14885,7 @@
   {
     "id": "2091",
     "full_name": "MICHAEL DEL ZOTTO",
-    "cardImage": "/images/cards/209108092025110624.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/209108092025110624.jpg",
     "position": "LD",
     "team": "NYR",
     "nationality": "Canada",
@@ -14926,7 +14926,7 @@
   {
     "id": "2096",
     "full_name": "ROD SEILING",
-    "cardImage": "/images/cards/209608092025110708.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/209608092025110708.jpg",
     "position": "LD",
     "team": "NYR",
     "nationality": "Canada",
@@ -14967,7 +14967,7 @@
   {
     "id": "2099",
     "full_name": "CHRIS PHILLIPS",
-    "cardImage": "/images/cards/209908092025110800.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/209908092025110800.jpg",
     "position": "LD",
     "team": "OTT",
     "nationality": "Canada",
@@ -15008,7 +15008,7 @@
   {
     "id": "2100",
     "full_name": "WADE REDDEN",
-    "cardImage": "/images/cards/210008092025110805.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/210008092025110805.jpg",
     "position": "LD",
     "team": "OTT",
     "nationality": "Canada",
@@ -15049,7 +15049,7 @@
   {
     "id": "2106",
     "full_name": "SHANE HNIDY",
-    "cardImage": "/images/cards/210608092025110839.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/210608092025110839.jpg",
     "position": "RD",
     "team": "OTT",
     "nationality": "Canada",
@@ -15090,7 +15090,7 @@
   {
     "id": "2107",
     "full_name": "STANISLAV NECKAR",
-    "cardImage": "/images/cards/210708092025110852.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/210708092025110852.jpg",
     "position": "LD",
     "team": "OTT",
     "nationality": "Czechia",
@@ -15131,7 +15131,7 @@
   {
     "id": "2118",
     "full_name": "DOUG CROSSMAN",
-    "cardImage": "/images/cards/211808092025113054.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/211808092025113054.jpg",
     "position": "LD",
     "team": "PHI",
     "nationality": "Canada",
@@ -15172,7 +15172,7 @@
   {
     "id": "2123",
     "full_name": "JOE WATSON",
-    "cardImage": "/images/cards/212308092025113112.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/212308092025113112.jpg",
     "position": "LD",
     "team": "PHI",
     "nationality": "Canada",
@@ -15213,7 +15213,7 @@
   {
     "id": "2125",
     "full_name": "BRAD MCCRIMMON",
-    "cardImage": "/images/cards/212508092025113122.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/212508092025113122.jpg",
     "position": "LD",
     "team": "PHI",
     "nationality": "Canada",
@@ -15254,7 +15254,7 @@
   {
     "id": "2126",
     "full_name": "TOM BLADON",
-    "cardImage": "/images/cards/212608092025113126.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/212608092025113126.jpg",
     "position": "RD",
     "team": "PHI",
     "nationality": "Canada",
@@ -15295,7 +15295,7 @@
   {
     "id": "2130",
     "full_name": "LARRY MURPHY",
-    "cardImage": "/images/cards/213008092025113313.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/213008092025113313.jpg",
     "position": "RD",
     "team": "PIT",
     "nationality": "Canada",
@@ -15336,7 +15336,7 @@
   {
     "id": "2134",
     "full_name": "BROOKS ORPIK",
-    "cardImage": "/images/cards/213408092025113332.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/213408092025113332.jpg",
     "position": "LD",
     "team": "PIT",
     "nationality": "USA",
@@ -15377,7 +15377,7 @@
   {
     "id": "2137",
     "full_name": "RANDY HILLIER",
-    "cardImage": "/images/cards/213708092025113340.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/213708092025113340.jpg",
     "position": "RD",
     "team": "PIT",
     "nationality": "Canada",
@@ -15418,7 +15418,7 @@
   {
     "id": "2139",
     "full_name": "DARIUS KASPARAITIS",
-    "cardImage": "/images/cards/213908092025113346.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/213908092025113346.jpg",
     "position": "LD",
     "team": "PIT",
     "nationality": "Lithuania",
@@ -15459,7 +15459,7 @@
   {
     "id": "2140",
     "full_name": "JIRI SLEGR",
-    "cardImage": "/images/cards/214008092025113352.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/214008092025113352.jpg",
     "position": "LD",
     "team": "PIT",
     "nationality": "Czechia",
@@ -15500,7 +15500,7 @@
   {
     "id": "2144",
     "full_name": "RYAN WHITNEY",
-    "cardImage": "/images/cards/214408092025113411.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/214408092025113411.jpg",
     "position": "LD",
     "team": "PIT",
     "nationality": "USA",
@@ -15541,7 +15541,7 @@
   {
     "id": "2146",
     "full_name": "DERYK ENGELLAND",
-    "cardImage": "/images/cards/214608092025113423.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/214608092025113423.jpg",
     "position": "RD",
     "team": "PIT",
     "nationality": "Canada",
@@ -15582,7 +15582,7 @@
   {
     "id": "2148",
     "full_name": "JIM PAEK",
-    "cardImage": "/images/cards/214808092025113430.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/214808092025113430.jpg",
     "position": "LD",
     "team": "PIT",
     "nationality": "Canada",
@@ -15623,7 +15623,7 @@
   {
     "id": "2151",
     "full_name": "MARIO MAROIS",
-    "cardImage": "/images/cards/215108092025113509.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/215108092025113509.jpg",
     "position": "RD",
     "team": "QUE",
     "nationality": "Canada",
@@ -15664,7 +15664,7 @@
   {
     "id": "2152",
     "full_name": "JEFF BROWN",
-    "cardImage": "/images/cards/215208092025113524.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/215208092025113524.jpg",
     "position": "RD",
     "team": "QUE",
     "nationality": "Canada",
@@ -15705,7 +15705,7 @@
   {
     "id": "2154",
     "full_name": "RANDALL MOLLER",
-    "cardImage": "/images/cards/215408092025113534.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/215408092025113534.jpg",
     "position": "RD",
     "team": "QUE",
     "nationality": "Canada",
@@ -15746,7 +15746,7 @@
   {
     "id": "2156",
     "full_name": "CURTIS LESCHYSHYN",
-    "cardImage": "/images/cards/215608092025114813.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/215608092025114813.jpg",
     "position": "LD",
     "team": "QUE",
     "nationality": "Canada",
@@ -15787,7 +15787,7 @@
   {
     "id": "2161",
     "full_name": "SCOTT HANNAN",
-    "cardImage": "/images/cards/216108092025114849.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/216108092025114849.jpg",
     "position": "LD",
     "team": "SJS",
     "nationality": "Canada",
@@ -15828,7 +15828,7 @@
   {
     "id": "2164",
     "full_name": "MATTHEW CARLE",
-    "cardImage": "/images/cards/216408092025114904.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/216408092025114904.jpg",
     "position": "LD",
     "team": "SJS",
     "nationality": "USA",
@@ -15869,7 +15869,7 @@
   {
     "id": "2168",
     "full_name": "BRYAN MARCHMENT",
-    "cardImage": "/images/cards/216808092025114942.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/216808092025114942.jpg",
     "position": "LD",
     "team": "SJS",
     "nationality": "Canada",
@@ -15910,7 +15910,7 @@
   {
     "id": "2169",
     "full_name": "DOUGLAS MURRAY",
-    "cardImage": "/images/cards/216908092025114955.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/216908092025114955.jpg",
     "position": "LD",
     "team": "SJS",
     "nationality": "Sweden",
@@ -15951,7 +15951,7 @@
   {
     "id": "2173",
     "full_name": "CHRIS PRONGER",
-    "cardImage": "/images/cards/217308092025115057.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/217308092025115057.jpg",
     "position": "LD",
     "team": "STL",
     "nationality": "Canada",
@@ -15992,7 +15992,7 @@
   {
     "id": "2175",
     "full_name": "AL MACINNIS",
-    "cardImage": "/images/cards/217508092025115129.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/217508092025115129.jpg",
     "position": "RD",
     "team": "STL",
     "nationality": "Canada",
@@ -16033,7 +16033,7 @@
   {
     "id": "2180",
     "full_name": "ROB RAMAGE",
-    "cardImage": "/images/cards/218008092025115150.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/218008092025115150.jpg",
     "position": "RD",
     "team": "STL",
     "nationality": "Canada",
@@ -16074,7 +16074,7 @@
   {
     "id": "2182",
     "full_name": "BARRET JACKMAN",
-    "cardImage": "/images/cards/218208092025115202.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/218208092025115202.jpg",
     "position": "LD",
     "team": "STL",
     "nationality": "Canada",
@@ -16115,7 +16115,7 @@
   {
     "id": "2186",
     "full_name": "DAN BOYLE",
-    "cardImage": "/images/cards/218608092025115229.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/218608092025115229.jpg",
     "position": "RD",
     "team": "TBL",
     "nationality": "Canada",
@@ -16156,7 +16156,7 @@
   {
     "id": "2189",
     "full_name": "CORY SARICH",
-    "cardImage": "/images/cards/218908092025115238.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/218908092025115238.jpg",
     "position": "RD",
     "team": "TBL",
     "nationality": "Canada",
@@ -16197,7 +16197,7 @@
   {
     "id": "2193",
     "full_name": "CORY CROSS",
-    "cardImage": "/images/cards/219308092025115422.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/219308092025115422.jpg",
     "position": "LD",
     "team": "TBL",
     "nationality": "Canada",
@@ -16238,7 +16238,7 @@
   {
     "id": "2198",
     "full_name": "BORJE SALMING",
-    "cardImage": "/images/cards/219808092025115537.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/219808092025115537.jpg",
     "position": "LD",
     "team": "TOR",
     "nationality": "Sweden",
@@ -16279,7 +16279,7 @@
   {
     "id": "2200",
     "full_name": "TIM HORTON",
-    "cardImage": "/images/cards/220008092025115551.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/220008092025115551.jpg",
     "position": "RD",
     "team": "TOR",
     "nationality": "Canada",
@@ -16320,7 +16320,7 @@
   {
     "id": "2202",
     "full_name": "AL IAFRATE",
-    "cardImage": "/images/cards/220208092025115601.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/220208092025115601.jpg",
     "position": "LD",
     "team": "TOR",
     "nationality": "USA",
@@ -16361,7 +16361,7 @@
   {
     "id": "2203",
     "full_name": "BRYAN MCCABE",
-    "cardImage": "/images/cards/220308092025115606.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/220308092025115606.jpg",
     "position": "LD",
     "team": "TOR",
     "nationality": "Canada",
@@ -16402,7 +16402,7 @@
   {
     "id": "2213",
     "full_name": "JYRKI LUMME",
-    "cardImage": "/images/cards/221308092025115740.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/221308092025115740.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "Finland",
@@ -16443,7 +16443,7 @@
   {
     "id": "2217",
     "full_name": "DENNIS KEARNS",
-    "cardImage": "/images/cards/221708092025115803.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/221708092025115803.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "Canada",
@@ -16484,7 +16484,7 @@
   {
     "id": "2219",
     "full_name": "DOUG LIDSTER",
-    "cardImage": "/images/cards/221908092025115811.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/221908092025115811.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Canada",
@@ -16525,7 +16525,7 @@
   {
     "id": "2220",
     "full_name": "DAVE BABYCH",
-    "cardImage": "/images/cards/222008092025115818.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/222008092025115818.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "Canada",
@@ -16566,7 +16566,7 @@
   {
     "id": "2221",
     "full_name": "GARTH BUTCHER",
-    "cardImage": "/images/cards/222108092025115822.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/222108092025115822.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Canada",
@@ -16607,7 +16607,7 @@
   {
     "id": "2224",
     "full_name": "MARK HOWE",
-    "cardImage": "/images/cards/222409092025120137.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/222409092025120137.jpg",
     "position": "LD",
     "team": "PHI",
     "nationality": "USA",
@@ -16648,7 +16648,7 @@
   {
     "id": "2232",
     "full_name": "BOB BAUN",
-    "cardImage": "/images/cards/223209092025060352.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/223209092025060352.jpg",
     "position": "RD",
     "team": "TOR",
     "nationality": "Canada",
@@ -16689,7 +16689,7 @@
   {
     "id": "2234",
     "full_name": "ADRIAN AUCOIN",
-    "cardImage": "/images/cards/223409092025060406.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/223409092025060406.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Canada",
@@ -16730,7 +16730,7 @@
   {
     "id": "2240",
     "full_name": "RANDY CARLYLE",
-    "cardImage": "/images/cards/224009092025060448.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/224009092025060448.jpg",
     "position": "LD",
     "team": "WPG",
     "nationality": "Canada",
@@ -16771,7 +16771,7 @@
   {
     "id": "2242",
     "full_name": "FREDRIK OLAUSSON",
-    "cardImage": "/images/cards/224209092025060503.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/224209092025060503.jpg",
     "position": "RD",
     "team": "WPG",
     "nationality": "Sweden",
@@ -16812,7 +16812,7 @@
   {
     "id": "2243",
     "full_name": "DAVE ELLETT",
-    "cardImage": "/images/cards/224309092025060510.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/224309092025060510.jpg",
     "position": "LD",
     "team": "WPG",
     "nationality": "Canada",
@@ -16853,7 +16853,7 @@
   {
     "id": "2244",
     "full_name": "LARRY ROBINSON",
-    "cardImage": "/images/cards/224409092025081814.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/224409092025081814.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "Canada",
@@ -16894,7 +16894,7 @@
   {
     "id": "2250",
     "full_name": "KJELL SAMUELSSON",
-    "cardImage": "/images/cards/225009092025081907.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/225009092025081907.jpg",
     "position": "RD",
     "team": "PHI",
     "nationality": "Sweden",
@@ -16935,7 +16935,7 @@
   {
     "id": "2252",
     "full_name": "DOUG BODGER",
-    "cardImage": "/images/cards/225209092025081921.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/225209092025081921.jpg",
     "position": "LD",
     "team": "SJS",
     "nationality": "Canada",
@@ -16976,7 +16976,7 @@
   {
     "id": "2254",
     "full_name": "CARLO COLAIACOVO",
-    "cardImage": "/images/cards/225409092025081940.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/225409092025081940.jpg",
     "position": "LD",
     "team": "STL",
     "nationality": "Canada",
@@ -17017,7 +17017,7 @@
   {
     "id": "2255",
     "full_name": "MURRAY BARON",
-    "cardImage": "/images/cards/225509092025081952.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/225509092025081952.jpg",
     "position": "LD",
     "team": "STL",
     "nationality": "Canada",
@@ -17058,7 +17058,7 @@
   {
     "id": "2267",
     "full_name": "SAMI SALO",
-    "cardImage": "/images/cards/226709092025082120.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/226709092025082120.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Finland",
@@ -17099,7 +17099,7 @@
   {
     "id": "2268",
     "full_name": "HAROLD SNEPSTS",
-    "cardImage": "/images/cards/226809092025082128.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/226809092025082128.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "Canada",
@@ -17140,7 +17140,7 @@
   {
     "id": "2271",
     "full_name": "DANA MURZYN",
-    "cardImage": "/images/cards/227109092025082156.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/227109092025082156.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "Canada",
@@ -17181,7 +17181,7 @@
   {
     "id": "2273",
     "full_name": "ROD LANGWAY",
-    "cardImage": "/images/cards/227309092025082401.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/227309092025082401.jpg",
     "position": "LD",
     "team": "WSH",
     "nationality": "USA",
@@ -17222,7 +17222,7 @@
   {
     "id": "2275",
     "full_name": "SERGEI GONCHAR",
-    "cardImage": "/images/cards/227509092025082434.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/227509092025082434.jpg",
     "position": "LD",
     "team": "WSH",
     "nationality": "Russia",
@@ -17263,7 +17263,7 @@
   {
     "id": "2276",
     "full_name": "MIKE GREEN",
-    "cardImage": "/images/cards/227609092025082440.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/227609092025082440.jpg",
     "position": "RD",
     "team": "WSH",
     "nationality": "Canada",
@@ -17304,7 +17304,7 @@
   {
     "id": "2280",
     "full_name": "BRIAN ENGBLOM",
-    "cardImage": "/images/cards/228009092025083855.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/228009092025083855.jpg",
     "position": "LD",
     "team": "WSH",
     "nationality": "Canada",
@@ -17345,7 +17345,7 @@
   {
     "id": "2281",
     "full_name": "JEFF SCHULTZ",
-    "cardImage": "/images/cards/228109092025083900.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/228109092025083900.jpg",
     "position": "LD",
     "team": "WSH",
     "nationality": "Canada",
@@ -17386,7 +17386,7 @@
   {
     "id": "2284",
     "full_name": "TEPPO NUMMINEN",
-    "cardImage": "/images/cards/228409092025083946.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/228409092025083946.jpg",
     "position": "RD",
     "team": "WPG",
     "nationality": "Finland",
@@ -17427,7 +17427,7 @@
   {
     "id": "2294",
     "full_name": "PETER TAGLIANETTI",
-    "cardImage": "/images/cards/229409092025084057.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/229409092025084057.jpg",
     "position": "LD",
     "team": "WPG",
     "nationality": "USA",
@@ -17468,7 +17468,7 @@
   {
     "id": "2301",
     "full_name": "HENRI JOKIHARJU",
-    "cardImage": "/images/cards/230109092025075655.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/230109092025075655.jpg",
     "position": "RD",
     "team": "BOS",
     "nationality": "Finland",
@@ -17509,7 +17509,7 @@
   {
     "id": "2304",
     "full_name": "SCOTT MORROW",
-    "cardImage": "/images/cards/230409092025075720.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/230409092025075720.jpg",
     "position": "RD",
     "team": "NYR",
     "nationality": "USA",
@@ -17550,7 +17550,7 @@
   {
     "id": "2305",
     "full_name": "MEGAN KELLER",
-    "cardImage": "/images/cards/230509092025082423.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/230509092025082423.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "USA",
@@ -17591,7 +17591,7 @@
   {
     "id": "2309",
     "full_name": "ZOE BOYD",
-    "cardImage": "/images/cards/230909092025104759.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/230909092025104759.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "Canada",
@@ -17632,7 +17632,7 @@
   {
     "id": "2313",
     "full_name": "HADLEY HARTMETZ",
-    "cardImage": "/images/cards/231309092025104823.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/231309092025104823.jpg",
     "position": "RD",
     "team": "BOS",
     "nationality": "USA",
@@ -17673,7 +17673,7 @@
   {
     "id": "2314",
     "full_name": "RYLIND MACKINNON",
-    "cardImage": "/images/cards/231409092025104828.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/231409092025104828.jpg",
     "position": "LD",
     "team": "BOS",
     "nationality": "Canada",
@@ -17714,7 +17714,7 @@
   {
     "id": "2318",
     "full_name": "SIDNEY MORIN",
-    "cardImage": "/images/cards/231809092025104902.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/231809092025104902.jpg",
     "position": "RD",
     "team": "MIN",
     "nationality": "USA",
@@ -17755,7 +17755,7 @@
   {
     "id": "2321",
     "full_name": "MAE BATHERSON",
-    "cardImage": "/images/cards/232109092025104915.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/232109092025104915.jpg",
     "position": "LD",
     "team": "MIN",
     "nationality": "Germany",
@@ -17796,7 +17796,7 @@
   {
     "id": "2323",
     "full_name": "NATALIE BUCHBINDER",
-    "cardImage": "/images/cards/232309092025104926.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/232309092025104926.jpg",
     "position": "RD",
     "team": "MIN",
     "nationality": "USA",
@@ -17837,7 +17837,7 @@
   {
     "id": "2325",
     "full_name": "LEE STECKLEIN",
-    "cardImage": "/images/cards/232509092025104936.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/232509092025104936.jpg",
     "position": "LD",
     "team": "MIN",
     "nationality": "USA",
@@ -17878,7 +17878,7 @@
   {
     "id": "2330",
     "full_name": "KATI TABIN",
-    "cardImage": "/images/cards/233009092025105018.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/233009092025105018.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "Canada",
@@ -17919,7 +17919,7 @@
   {
     "id": "2331",
     "full_name": "JESSICA DIGIROLAMO",
-    "cardImage": "/images/cards/233109092025105022.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/233109092025105022.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "Canada",
@@ -17960,7 +17960,7 @@
   {
     "id": "2334",
     "full_name": "MAGGIE FLAHERTY",
-    "cardImage": "/images/cards/233409092025105035.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/233409092025105035.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "USA",
@@ -18001,7 +18001,7 @@
   {
     "id": "2336",
     "full_name": "AMANDA BOULIER",
-    "cardImage": "/images/cards/233609092025105041.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/233609092025105041.jpg",
     "position": "RD",
     "team": "MTL",
     "nationality": "Canada",
@@ -18042,7 +18042,7 @@
   {
     "id": "2342",
     "full_name": "ERIN AMBROSE",
-    "cardImage": "/images/cards/234209092025105119.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/234209092025105119.jpg",
     "position": "RD",
     "team": "MTL",
     "nationality": "Canada",
@@ -18083,7 +18083,7 @@
   {
     "id": "2346",
     "full_name": "LAUREN BERNARD",
-    "cardImage": "/images/cards/234609092025105204.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/234609092025105204.jpg",
     "position": "LD",
     "team": "NY",
     "nationality": "USA",
@@ -18124,7 +18124,7 @@
   {
     "id": "2348",
     "full_name": "ALLYSON SIMPSON",
-    "cardImage": "/images/cards/234809092025105212.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/234809092025105212.jpg",
     "position": "RD",
     "team": "NY",
     "nationality": "USA",
@@ -18165,7 +18165,7 @@
   {
     "id": "2349",
     "full_name": "JINCY ROESE",
-    "cardImage": "/images/cards/234909092025105219.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/234909092025105219.jpg",
     "position": "LD",
     "team": "NY",
     "nationality": "USA",
@@ -18206,7 +18206,7 @@
   {
     "id": "2350",
     "full_name": "MAJA NYLEN PERSSON",
-    "cardImage": "/images/cards/235009092025105229.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/235009092025105229.jpg",
     "position": "RD",
     "team": "NY",
     "nationality": "Sweden",
@@ -18247,7 +18247,7 @@
   {
     "id": "2354",
     "full_name": "JAIME BOURBONNAIS",
-    "cardImage": "/images/cards/235409092025105259.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/235409092025105259.jpg",
     "position": "RD",
     "team": "NY",
     "nationality": "Canada",
@@ -18288,7 +18288,7 @@
   {
     "id": "2356",
     "full_name": "MICAH ZANDEE-HART",
-    "cardImage": "/images/cards/235609092025105309.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/235609092025105309.jpg",
     "position": "LD",
     "team": "NY",
     "nationality": "Canada",
@@ -18329,7 +18329,7 @@
   {
     "id": "2358",
     "full_name": "JESSICA ADOLFSSON",
-    "cardImage": "/images/cards/235809092025105336.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/235809092025105336.jpg",
     "position": "LD",
     "team": "OTT",
     "nationality": "Sweden",
@@ -18370,7 +18370,7 @@
   {
     "id": "2360",
     "full_name": "STEPHANIE MARKOWSKI",
-    "cardImage": "/images/cards/236009092025105342.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/236009092025105342.jpg",
     "position": "RD",
     "team": "OTT",
     "nationality": "Canada",
@@ -18411,7 +18411,7 @@
   {
     "id": "2365",
     "full_name": "BROOKE HOBSON",
-    "cardImage": "/images/cards/236509092025105356.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/236509092025105356.jpg",
     "position": "LD",
     "team": "OTT",
     "nationality": "Canada",
@@ -18452,7 +18452,7 @@
   {
     "id": "2368",
     "full_name": "JOCELYNE LAROCQUE",
-    "cardImage": "/images/cards/236809092025105413.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/236809092025105413.jpg",
     "position": "LD",
     "team": "OTT",
     "nationality": "Canada",
@@ -18493,7 +18493,7 @@
   {
     "id": "2370",
     "full_name": "JESSICA KONDAS",
-    "cardImage": "/images/cards/237009092025105440.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/237009092025105440.jpg",
     "position": "RD",
     "team": "TOR",
     "nationality": "Canada",
@@ -18534,7 +18534,7 @@
   {
     "id": "2371",
     "full_name": "KALI FLANAGAN",
-    "cardImage": "/images/cards/237109092025105445.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/237109092025105445.jpg",
     "position": "RD",
     "team": "TOR",
     "nationality": "USA",
@@ -18575,7 +18575,7 @@
   {
     "id": "2374",
     "full_name": "ALLIE MUNROE",
-    "cardImage": "/images/cards/237409092025105455.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/237409092025105455.jpg",
     "position": "LD",
     "team": "TOR",
     "nationality": "Canada",
@@ -18616,7 +18616,7 @@
   {
     "id": "2378",
     "full_name": "SAVANNAH HARMON",
-    "cardImage": "/images/cards/237809092025105516.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/237809092025105516.jpg",
     "position": "LD",
     "team": "TOR",
     "nationality": "USA",
@@ -18657,7 +18657,7 @@
   {
     "id": "2382",
     "full_name": "ELLA SHELTON",
-    "cardImage": "/images/cards/238209092025105531.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/238209092025105531.jpg",
     "position": "LD",
     "team": "TOR",
     "nationality": "Canada",
@@ -18698,7 +18698,7 @@
   {
     "id": "2384",
     "full_name": "RENATA FAST",
-    "cardImage": "/images/cards/238409092025105545.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/238409092025105545.jpg",
     "position": "RD",
     "team": "TOR",
     "nationality": "Canada",
@@ -18739,7 +18739,7 @@
   {
     "id": "2388",
     "full_name": "CAYLA BARNES",
-    "cardImage": "/images/cards/238809092025105812.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/238809092025105812.jpg",
     "position": "RD",
     "team": "SEA",
     "nationality": "USA",
@@ -18780,7 +18780,7 @@
   {
     "id": "2394",
     "full_name": "EMILY BROWN",
-    "cardImage": "/images/cards/239409092025105850.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/239409092025105850.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "USA",
@@ -18821,7 +18821,7 @@
   {
     "id": "2395",
     "full_name": "MEGAN CARTER",
-    "cardImage": "/images/cards/239509092025105852.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/239509092025105852.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "Canada",
@@ -18862,7 +18862,7 @@
   {
     "id": "2396",
     "full_name": "MARIAH KEOPPLE",
-    "cardImage": "/images/cards/239609092025105855.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/239609092025105855.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "USA",
@@ -18903,7 +18903,7 @@
   {
     "id": "2398",
     "full_name": "ANNA WILGREN",
-    "cardImage": "/images/cards/239809092025105901.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/239809092025105901.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "USA",
@@ -18944,7 +18944,7 @@
   {
     "id": "2399",
     "full_name": "MELLISSA CHANNELL",
-    "cardImage": "/images/cards/239909092025110232.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/239909092025110232.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "Canada",
@@ -18985,7 +18985,7 @@
   {
     "id": "2402",
     "full_name": "SOPHIE JAQUES",
-    "cardImage": "/images/cards/240209092025110238.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/240209092025110238.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Canada",
@@ -19026,7 +19026,7 @@
   {
     "id": "2403",
     "full_name": "SYDNEY BARD",
-    "cardImage": "/images/cards/240309092025110240.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/240309092025110240.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "USA",
@@ -19067,7 +19067,7 @@
   {
     "id": "2408",
     "full_name": "EMMA GRECO",
-    "cardImage": "/images/cards/240809092025110349.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/240809092025110349.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "Canada",
@@ -19108,7 +19108,7 @@
   {
     "id": "2410",
     "full_name": "ASHTON BELL",
-    "cardImage": "/images/cards/241009092025110358.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/241009092025110358.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Canada",
@@ -19149,7 +19149,7 @@
   {
     "id": "2411",
     "full_name": "CLAIRE THOMPSON",
-    "cardImage": "/images/cards/241109092025110401.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/241109092025110401.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "Canada",
@@ -19190,7 +19190,7 @@
   {
     "id": "2415",
     "full_name": "RYAN WHITNEY",
-    "cardImage": "/images/cards/241510092025075639.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/241510092025075639.jpg",
     "position": "LD",
     "team": "EDM",
     "nationality": "USA",
@@ -19231,7 +19231,7 @@
   {
     "id": "2421",
     "full_name": "JORDAN SPENCE",
-    "cardImage": "/images/cards/242110092025075806.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/242110092025075806.jpg",
     "position": "RD",
     "team": "OTT",
     "nationality": "Canada",
@@ -19272,7 +19272,7 @@
   {
     "id": "2423",
     "full_name": "K&apos;ANDRE MILLER",
-    "cardImage": "/images/cards/242310092025075826.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/242310092025075826.jpg",
     "position": "LD",
     "team": "CAR",
     "nationality": "USA",
@@ -19313,7 +19313,7 @@
   {
     "id": "2431",
     "full_name": "DAN BOYLE",
-    "cardImage": "/images/cards/243112092025060110.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/243112092025060110.jpg",
     "position": "RD",
     "team": "TBL",
     "nationality": "Canada",
@@ -19354,7 +19354,7 @@
   {
     "id": "2432",
     "full_name": "QUINN HUGHES",
-    "cardImage": "/images/cards/243212092025060123.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/243212092025060123.jpg",
     "position": "LD",
     "team": "VAN",
     "nationality": "USA",
@@ -19395,7 +19395,7 @@
   {
     "id": "2434",
     "full_name": "DREW DOUGHTY",
-    "cardImage": "/images/cards/243412092025060201.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/243412092025060201.jpg",
     "position": "RD",
     "team": "LAK",
     "nationality": "Canada",
@@ -19436,7 +19436,7 @@
   {
     "id": "2436",
     "full_name": "MIRO HEISKANEN",
-    "cardImage": "/images/cards/243612092025060240.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/243612092025060240.jpg",
     "position": "LD",
     "team": "DAL",
     "nationality": "Finland",
@@ -19477,7 +19477,7 @@
   {
     "id": "2440",
     "full_name": "MORITZ SEIDER",
-    "cardImage": "/images/cards/244012092025060329.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/244012092025060329.jpg",
     "position": "RD",
     "team": "DET",
     "nationality": "Germany",
@@ -19518,7 +19518,7 @@
   {
     "id": "2442",
     "full_name": "LUKE HUGHES",
-    "cardImage": "/images/cards/244212092025060347.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/244212092025060347.jpg",
     "position": "LD",
     "team": "NJD",
     "nationality": "USA",
@@ -19559,7 +19559,7 @@
   {
     "id": "2457",
     "full_name": "VINCE DUNN",
-    "cardImage": "/images/cards/245712092025092747.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/245712092025092747.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "Canada",
@@ -19600,7 +19600,7 @@
   {
     "id": "2458",
     "full_name": "VINCE DUNN",
-    "cardImage": "/images/cards/245812092025092748.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/245812092025092748.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "Canada",
@@ -19641,7 +19641,7 @@
   {
     "id": "2459",
     "full_name": "VINCE DUNN",
-    "cardImage": "/images/cards/245912092025092748.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/245912092025092748.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "Canada",
@@ -19682,7 +19682,7 @@
   {
     "id": "2460",
     "full_name": "VINCE DUNN",
-    "cardImage": "/images/cards/246012092025092748.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/246012092025092748.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "Canada",
@@ -19723,7 +19723,7 @@
   {
     "id": "2461",
     "full_name": "VINCE DUNN",
-    "cardImage": "/images/cards/246112092025092748.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/246112092025092748.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "Canada",
@@ -19764,7 +19764,7 @@
   {
     "id": "2462",
     "full_name": "VINCE DUNN",
-    "cardImage": "/images/cards/246212092025092748.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/246212092025092748.jpg",
     "position": "LD",
     "team": "SEA",
     "nationality": "Canada",
@@ -19805,7 +19805,7 @@
   {
     "id": "2468",
     "full_name": "FILIP HRONEK",
-    "cardImage": "/images/cards/246812092025094023.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/246812092025094023.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Czechia",
@@ -19846,7 +19846,7 @@
   {
     "id": "2469",
     "full_name": "FILIP HRONEK",
-    "cardImage": "/images/cards/246912092025094049.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/246912092025094049.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Czechia",
@@ -19887,7 +19887,7 @@
   {
     "id": "2470",
     "full_name": "FILIP HRONEK",
-    "cardImage": "/images/cards/247012092025094049.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/247012092025094049.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Czechia",
@@ -19928,7 +19928,7 @@
   {
     "id": "2471",
     "full_name": "FILIP HRONEK",
-    "cardImage": "/images/cards/247112092025094049.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/247112092025094049.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Czechia",
@@ -19969,7 +19969,7 @@
   {
     "id": "2472",
     "full_name": "FILIP HRONEK",
-    "cardImage": "/images/cards/247212092025094049.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/247212092025094049.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Czechia",
@@ -20010,7 +20010,7 @@
   {
     "id": "2473",
     "full_name": "FILIP HRONEK",
-    "cardImage": "/images/cards/247312092025094049.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/247312092025094049.jpg",
     "position": "RD",
     "team": "VAN",
     "nationality": "Czechia",
@@ -20051,7 +20051,7 @@
   {
     "id": "2480",
     "full_name": "LANE HUTSON",
-    "cardImage": "/images/cards/248013092025082539.jpg",
+    "cardImage": "https://www.nhlhutbuilder.com/images/card_art/players/248013092025082539.jpg",
     "position": "LD",
     "team": "MTL",
     "nationality": "USA",
