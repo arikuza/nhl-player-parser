@@ -193,9 +193,6 @@ function App() {
             <div className="results">
               <div className="info-box">
                 <p>Last updated: {new Date(dataState.summary.lastUpdated).toLocaleString()}</p>
-                <button onClick={loadData} className="refresh-button">
-                  Refresh Data
-                </button>
               </div>
 
               <div className="stats">

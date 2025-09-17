@@ -274,21 +274,6 @@
   gap: 1rem;
 }
 
-.refresh-button {
-  padding: 0.5rem 1rem;
-  background: linear-gradient(45deg, #4a5568, #5a6578);
-  color: white;
-  border: none;
-  border-radius: 6px;
-  cursor: pointer;
-  font-size: 0.9rem;
-}
-
-.refresh-button:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-}
-
 .no-data, .loading {
   background: rgba(255, 255, 255, 0.95);
   padding: 3rem;

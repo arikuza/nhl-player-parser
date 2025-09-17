@@ -287,6 +287,18 @@ const PlayerSearch: React.FC<PlayerSearchProps> = ({ players }) => {
     }
   };
 
+  const resetFilters = () => {
+    setSearchTerm('');
+    setSelectedPosition('all');
+    setSelectedTeam('all');
+    setSelectedCard('all');
+    setMinOverall('');
+    setMaxOverall('');
+    setSortBy('overall');
+    setSortOrder('desc');
+    setCurrentPage(1);
+  };
+
   return (
     <div className="player-search">
       <div className="search-header">
@@ -397,6 +409,10 @@ const PlayerSearch: React.FC<PlayerSearchProps> = ({ players }) => {
               <option value="defence">Defence</option>
             </select>
           </div>
+
+          <button onClick={resetFilters} className="reset-button">
+            Reset Filters
+          </button>
         </div>
       </div>
 
